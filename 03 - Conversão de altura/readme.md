@@ -64,6 +64,9 @@ public class ConversaoDeAlturaA {
 
 ### Teste de mesa
 
+Entrada: 5 11
+Saída: 1.80
+
 | Bloco | pes (ft) | polegadas (in) | Altura (m) |
 | :---: | :---: | :---: | :---: |
 | Bloco 0 | 0 | 0 | 0 |
@@ -141,6 +144,9 @@ public class ConversaoDeAlturaB {
 ```
 
 ### Teste de mesa
+
+Entrada: 1.8
+Saída: 5 11
 
 | Bloco | alturaEmMetros | pes | sobraEmPes | polegadas |
 | :---: | :---: | :---: | :---: | :---: |
