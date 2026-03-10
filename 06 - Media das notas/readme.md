@@ -7,11 +7,11 @@ Elabore um fluxograma para um algoritmo que LÊ quatro número reais representan
 ```mermaid
 graph TD
     A([Início]) --> B[/Leia nota/]
-    B --> C [/media = media + nota/]
-    C --> D [/Leia nota/]
-    D --> E [/media = media + nota/]
-    E --> F [/Leia nota/]
-    F --> G [/media = media + nota/]
-    G --> H [/Escreva media/]
+    B --> C[/media = media + nota/]
+    C --> D[/Leia nota/]
+    D --> E[/media = media + nota/]
+    E --> F[/Leia nota/]
+    F --> G[/media = media + nota/]
+    G --> H[/Escreva media/]
     I([Fim])
 ```
