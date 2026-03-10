@@ -20,11 +20,10 @@ graph TD
 
 ## Teste de mesa
 
-| Bloco | pes (ft) | polegadas (in) | Altura (m) |
-| :---: | :---: | :---: | :---: |
-| Bloco 0 | 0 | 0 | 0 |
-| Bloco 1 | 0 | 0 | 0 |
-| Bloco 2 | 5 | 11 | 0 |
-| Bloco 3 | 5 | 11 | 1.80 |
-| Bloco 4 | 5 | 11 | 1.80 |
-| Bloco 5 | 5 | 11 | 1.80 |
+| Bloco | instrução | temperaturaEmF | ptemperaturaEmC | Entrada | Saida
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Bloco 0 | Início | 0 | 0 |
+| Bloco 1 | Leia | 100 | 0 | 100 | 0
+| Bloco 2 | Atribuição | 100 | 37.7778 |  100 | 0
+| Bloco 3 | 5 | Escreva | 100 | 37.7778 |  0 | 37.7778
+| Bloco 4 | 5 | Fim | 100 | 37.7778 |  0 | 0
