@@ -6,7 +6,7 @@ Elabore um fluxograma para um algoritmo que LÊ um número inteiro representando
 
 ```mermaid
 graph TD
-    A([Início]) --> B[/Leia numeroInteiro/]
+    A([Início]) --> B[/Leia n/]
     B --> C[m50 = n div 50]
     C --> D[n = n mod 50]
     D --> E[m25 = n div 25]
@@ -19,3 +19,23 @@ graph TD
     M --> N[/Escreva m50, " ", m25, " ", m10, " ", m5, " ", m1/]
     N --> O[(Fim)]
 ```
+
+[Link do fluxograma no fluxolab](https://fluxolab.app/?lzs=NoIhBplA7CAYC6kQFsCsd5NCgTGrZFARk3ESIPO1WK22DnAGZxcAOJ43JsZAIwD2AF2GCUIBNmLgALG05s4vWAJFiJUyLnAA2BUw690cAAQBeU9FMATAJYA3Uxgigho8ZOzz9RubON8CytbR1N8VxB3DS9IVl9FZl0VS2sUQRtnMjd1Ty1gND0DcDQecBBrVNN0zIi1D01sfQSmZONSYOt7J1JI6LzsAHYiv11FCs7qjNNe+pj89hHFQeTy9Enu5z7cxsgATiWmdgDyypCarbmByFJD8D2y2g2wuivd4GIZQr9SR5NwUwAHRAQIg1XwAOBoIBJCYoOh1UK8OBMNeOQasQ+OkWP1IvFcUgYXC40nAt1w2B0t2Y2FYt1k3jJTDQ2EKt10TSZ4EGQy57Gwi1ue2wB1upGkxLJxGkMjFFKkQA)
+
+## Teste de mesa
+
+| Bloco | instrução | m50 | m25 | m10 | m5 | m1 | n | Entrada | Saida
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Bloco 0 | Início | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Bloco 1 | Leia | 0 | 0 | 0 | 0 | 0 | 57 | 57 | 0 |
+| Bloco 2 | Atribuição | 1 | 0 | 0 | 0 | 0 | 57 | 0 | 0 |
+| Bloco 3 | Atribuição | 1 | 0 | 0 | 0 | 0 | 7 | 0 | 0 |
+| Bloco 4 | Atribuição | 1 | 0 | 0 | 0 | 0 | 7 | 0 | 0 |
+| Bloco 5 | Atribuição | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Bloco 6 | Atribuição | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Bloco 7 | Atribuição | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Bloco 8 | Atribuição | 1 | 0 | 0 | 1 | 1 | 2 | 0 | 0 |
+| Bloco 9 | Atribuição | 1 | 0 | 0 | 1 | 2 | 0 | 0 | 0 |
+| Bloco 10 | Atribuição | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
+| Bloco 11 | Escreva | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 10012 |
+| Bloco 12 | Fim | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
