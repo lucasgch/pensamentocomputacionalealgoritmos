@@ -12,9 +12,9 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
   - Exercícios para casa
     - 04 - [Conversão de temperatura](./04%20-%20Conversão%20de%20temperatura/readme.md)
     - 05 - [Valor do discriminante](./05%20-%20Valor%20do%20discriminante/readme.md)
-    - 06 - Media das notas
-    - 07 - Conversor binário para decimal
-    - 08 - Calcular moedas
+    - 06 - [Media das notas](./06%20-%20Media%20das%20notas/readme.md)
+    - 07 - [Conversor binário para decimal](./07%20-%20Conversor%20binário%20para%20decimal/readme.md)
+    - 08 - [Calcular moedas](./08%20-%20Calcular%20moedas/readme.md)
 
 ## 2. Expressões lógicas
 
