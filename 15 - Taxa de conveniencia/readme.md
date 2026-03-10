@@ -54,17 +54,15 @@ Saída: 113
 Entrada: 2000
 Saída: 2051
 
-//TODO
-
 | Bloco | instrução | valorIngresso | taxaConveniencia | valorTotalIngresso | Entrada | Saida
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Bloco 0 | Início | 0 | 0 | 0 | 0 | 0
-| Bloco 1 | Leia | 5 | 0 | 0 | 5 | 0
-| Bloco 2 | Condicional | 5 | 0 | 0 | 5 | 0
-| Bloco 3 | Atribuição | 5 | 8.25 | 0 | 0 | 0
-| Bloco 4 | Atribuição | 5 | 8.25 | 0 | 0 | 0
-| Bloco 5 | Condicional | 5 | 0 | 0 | 0 | 0
-| Bloco 6 | Atribuição | 5 | 10 | 0 | 0 | 0
-| Bloco 7 | Atribuição | 5 | 10 | 15 | 0 | 0
-| Bloco 8 | Saída | 5 | 10 | 15 | 0 | 15
-| Bloco 9 | Fim | 5 | 10 | 15 | 0 | 15
+| Bloco 1 | Leia | 2000 | 0 | 0 | 0 | 2000 | 0
+| Bloco 2 | Condicional | 2000 | 0 | 0 | 0 | 0 | 0
+| Bloco 3 | Atribuição | 2000 | 0 | 0 | 0 | 0 | 0
+| Bloco 4 | Atribuição | 2000 | 51 | 0 | 0 | 0 | 0
+| Bloco 5 | Condicional | 2000 | 51 | 0 | 0 | 0 | 0
+| Bloco 6 | Atribuição | 2000 | 51 | 0 | 0 | 0 | 0
+| Bloco 7 | Atribuição | 2000 | 51 | 251 | 2000 | 0 | 0
+| Bloco 8 | Saída | 2000 | 51 | 251 | 0 | 2051
+| Bloco 9 | Fim | 200 | 51 | 251 | 2051 | 0 | 0
