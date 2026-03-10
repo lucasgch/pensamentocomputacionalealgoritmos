@@ -17,8 +17,8 @@ Fim
 ## Teste de mesa
 
 | Bloco | instrução | a | b | c | d | Entrada | Saida
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Bloco 0 | Início | 0 | 0 | 0 | 0 | 0 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Bloco 0 | Início | 0 | 0 | 0 | 0 | 0 | 0 |
 | Bloco 1 | Leia | 1 | 5 | 3 | 1 5 3 | 0 | 0 |
 | Bloco 2 | Atribuição | 1 | 5 | 3 | 13 | 0 | 0 |
 | Bloco 3 | Escreva | 1 | 5 | 3 | 13 | 0 | 13 |
