@@ -19,4 +19,18 @@ Elabore um fluxograma para um algoritmo que LÊ o valor do ingresso e ESCREVE o 
 
 ## Teste de mesa
 
+Entrada: 5
+Saída: 15
 
+| Bloco | instrução | valorIngresso | taxaConveniencia | valorTotalIngresso | Entrada | Saida
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| Bloco 0 | Início | 0 | 0 | 0 | 0 | 0
+| Bloco 1 | Leia | 5 | 0 | 0 | 5 | 0
+| Bloco 2 | Condicional | 5 | 0 | 0 | 5 | 0
+| Bloco 3 | Atribuição | 5 | 8.25 | 0 | 0 | 0
+| Bloco 4 | Atribuição | 5 | 8.25 | 0 | 0 | 0
+| Bloco 5 | Condicional | 5 | 0 | 0 | 0 | 0
+| Bloco 6 | Atribuição | 5 | 10 | 0 | 0 | 0
+| Bloco 7 | Atribuição | 5 | 10 | 15 | 0 | 0
+| Bloco 8 | Saída | 5 | 10 | 15 | 0 | 15
+| Bloco 9 | Fim | 5 | 10 | 15 | 0 | 15
