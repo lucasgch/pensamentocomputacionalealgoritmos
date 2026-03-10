@@ -51,13 +51,14 @@ import java.util.Scanner;
 public class ConversaoDeAlturaA {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Informe pés e polegadas separado por um espaço: ");
-        double pes = scanner.nextDouble();
-        double polegadas = scanner.nextDouble();
-
-        double alturaEmMetros = ( ((pes * 12)*2.54) + polegadas*2.54) /100;
-        System.out.printf("Altura em metros: %.2f%n", alturaEmMetros);
+        try (Scanner scanner = new Scanner(System.in)) {
+            System.out.println("Informe pés e polegadas separado por um espaço: ");
+            double pes = scanner.nextDouble();
+            double polegadas = scanner.nextDouble();
+            
+            double alturaEmMetros = ( ((pes * 12)*2.54) + polegadas*2.54) /100;
+            System.out.printf("Altura em metros: %.2f%n", alturaEmMetros);
+        }
     }
 }
 ```
@@ -122,6 +123,8 @@ programa{
 
 ### Java
 
+- Utilizando mod (resto da divisão)
+
 ```java
 import java.util.Scanner;
 
@@ -132,9 +135,13 @@ public class ConversaoDeAlturaB {
             System.out.println("Informe a altura em metros: ");
             double alturaEmMetros = scanner.nextDouble();
 
-            double pes = Math.floor(alturaEmMetros*3.28084);
-            double sobraEmPes = (alturaEmMetros*3.28084) - pes;
-            double polegadas = Math.round(sobraEmPes *12);
+            double alturaTotalEmPes = alturaEmMetros * 3.28084;
+            
+            double pes = Math.floor(alturaTotalEmPes);
+
+            double sobraEmPes = alturaTotalEmPes % 1;
+
+            double polegadas = Math.round(sobraEmPes * 12);
 
             System.out.printf("Altura pés e polegadas: %.2f %.2f%n" , pes, polegadas);
             scanner.close();
