@@ -1,0 +1,3 @@
+# IMC
+
+Elabore um fluxograma para um algoritmo que LÊ dois números reais representando o peso e a altura de uma pessoa e ESCREVE o **índice de massa corpórea (IMC)** desta pessoa, bem com a **classificação do seu estado nutricional**. Em seguida, efetue um teste de mesa com a entrada `83 1.75`; a saída deverá ser `27.102 Sobrepeso`. Veja a página do Ministério da Saúde para mais informações sobre o IMC e a classificação do estado nutricional.

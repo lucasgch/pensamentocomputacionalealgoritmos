@@ -28,3 +28,20 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
     - 13 - [Número especial divisível por 2 ou 3](./13%20-%20Especial%20divisível%20por%202%20ou%203/readme.md)
 
 ## 3. Fluxo condicional
+
+- Desvio condicional simples
+  - Exercício em sala: 
+    - 14 - [Quantidade de números acima da média](./14%20-%20Numeros%20acima%20da%20media/readme.md)
+- Desvio condicional composto
+  - Exercício em sala: 
+    - 15 - [Taxa de conveniência](./15%20-%20Taxa%20de%20conveniencia/readme.md)
+- Alinhamento de estruturas de decisão
+- Desvio condicional encadeado
+- Exercício em sala
+  - 16 - [IMC](./16%20-%20IMC/readme.md)
+- Exercícios para casa
+  - 17 - [Maior de três](./17%20-%20Maior%20de%20três/readme.md)
+  - 18 - [Remuneração mensal](./18%20-%20Remuneração%20mensal/readme.md)
+  - 19 - [Pertence ao conjunto](./19%20-%20Pertence%20ao%20conjunto/readme.md)
+  - 20 - [Classifica triângulo](./20%20-%20Classifica%20triângulo/readme.md)
+  - 21 - [Avalia aluno](./21%20-%20Avalia%20aluno/readme.md)

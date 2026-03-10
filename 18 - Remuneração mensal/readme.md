@@ -1,0 +1,3 @@
+# 18 - Remuneração mensal
+
+Considere um vendedor cuja *remuneração mensal* é composta por um *salário fixo* de R$ 2.000,00 mais uma *comissão* que depende do valor total de suas vendas. A comissão inicial é de 5% sobre o valor total de vendas, mas se o valor total de vendas alcançar a *meta* de R$ 10.000,00, a comissão passa a ser de 7%. Além disso, quando a *avaliação de desempenho* do vendedor for igual ou superior a 8, ele recebe um *bônus* de R$ 500,00.
