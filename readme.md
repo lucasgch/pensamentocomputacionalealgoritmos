@@ -20,11 +20,11 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 
 - Tipos booleanos, operadores de comparação, operadores lógicos, tabelas verdade
   - Exercícios em sala:
-    - 09 - Voto no Brasil
-    - 10 - Ano Bissexto
+    - 09 - [Voto no Brasil](./09%20-%20Voto%20no%20Brasil/readme.md)
+    - 10 - [Ano Bissexto](./10%20-%20Ano%20Bissexto/readme.md)
   - Exercícios para casa
-    - 11 - Cáculo aposentadoria
-    - 12 - Vogal ou consoante
-    - 13 - Número especial divisível por 2 ou 3
+    - 11 - [Cáculo aposentadoria](./11%20-%20Calculo%20Aposentadoria/readme.md)
+    - 12 - [Vogal ou consoante](./12%20-%20Vogal%20ou%20consoante/readme.md)
+    - 13 - [Número especial divisível por 2 ou 3](./13%20-%20Especial%20divisível%20por%202%20ou%203/readme.md)
 
 ## 3. Fluxo condicional
