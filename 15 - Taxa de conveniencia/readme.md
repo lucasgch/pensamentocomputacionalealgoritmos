@@ -64,5 +64,5 @@ Saída: 2051
 | Bloco 5 | Condicional | 2000 | 51 | 0 | 0 | 0 | 0
 | Bloco 6 | Atribuição | 2000 | 51 | 0 | 0 | 0 | 0
 | Bloco 7 | Atribuição | 2000 | 51 | 251 | 2000 | 0 | 0
-| Bloco 8 | Saída | 2000 | 51 | 251 | 0 | 2051
+| Bloco 8 | Saída | 2000 | 51 | 251 | 2051 | 0 | 0
 | Bloco 9 | Fim | 200 | 51 | 251 | 2051 | 0 | 0
