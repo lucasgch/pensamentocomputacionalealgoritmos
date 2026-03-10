@@ -8,11 +8,12 @@ b. Elabore outro fluxograma e um pseudocódigo, agora para um algoritmo que LÊ 
 
 ## Resolução A
 
-### Fluxograma
+### Fluxograma A
 
 - [a - Link para a fluxograma no fluxolab.app](https://fluxolab.app/?lzs=NoIhBplAHBTBnCAGAupE0D2AbWBzAQwBMDFxV0BBbAFwFcAnAgUQFsBZZFNKJcAZgEAmPgEYkfMOgBGmGjUysQ3SEPABWYXyEA2SQB0QASQB2AM0wNWsAATQAl-Bu2suQiSfxY0AkyKY7Sxs6Vmd4HwBzzEMIUFl5RWUeQQAWLQEUyTh4cEC3YlJYkHiFJRVgNIAOdL1JWPLNHXSUzPAQanomNnYAXgAKAeyAKlEhAEohoQA6dRSxgGpXfAL4SZm5gHpxJCKSxPKmzX4RDRP22kYWDl25UqSeYDVxAWTwZ-UeTWedHibnlJ4Ym03BQQA)
 
 - a - Fluxograma em Mermaid
+  
 ```mermaid
 graph TD
     A([Início]) --> B[/Escreva: Informe pés e polegadas/]
@@ -22,7 +23,7 @@ graph TD
     E --> F([Fim])
 ```
 
-### Pseudocódigo
+### Pseudocódigo A
 
 ```portugol
 
@@ -63,7 +64,7 @@ public class ConversaoDeAlturaA {
 }
 ```
 
-### Teste de mesa
+### Teste de mesa A
 
 Entrada: 5 11
 Saída: 1.80
@@ -79,11 +80,12 @@ Saída: 1.80
 
 ## Resolução B
 
-### Fluxograma
+### Fluxograma B
 
 - [b  - Link para a fluxograma no fluxolab.app](https://fluxolab.app/?lzs=NoIhBplBBAbAXArgJwIYFEC2BZApvZAewGcIAGAXUhAAddTxLqbDZcBzVAE1QadGKEARmiwAFeuQpUoZcAGZwAJgBscgIwAWOWGpDC8eIUwhpkdeACsytcqU6AOiADChAHYA3XMmIBjwgAEXLgBqAgoqAFKAQC0AZj4RMQBNKhoKQCXySxsnDzEThCg+obGpjJK4Jo2ckoAHDpwSKI4iSRFICVGJmbAiio1CtrgtPQAvABmsISEyAAUTRFYeAQkAFTyAHT1ZHWaAJQdXWW91QOqcpq2tKwc3LxjRIhuXHOCIhiYEsRr6kqHegM3XKkGs1guVnsIzoxHATgCTnAKVueV4RyBJxkAzqg0sDRGRV6AHZwOdbNodO8Wt8xgtwi0VkkNtsGnt9jEYejSj1esANBoZBZ1LUKuBhQoZNVxZYZNZxSoZIpxUSZCTxZppBQgA)
 
 - b - Fluxograma em Mermaid
+
 ```mermaid
 graph TD
     A([Início]) --> B[/Escreva 'Conversão de altura 2 - metros para pés polegadas'/]
@@ -95,7 +97,7 @@ graph TD
     G --> H([Fim])
 ```
 
-### Pseudocódigo
+### Pseudocódigo B
 
 ```portugol
 
@@ -121,7 +123,7 @@ programa{
 }
 ```
 
-### Java
+### Java B
 
 - Utilizando mod (resto da divisão)
 
@@ -143,14 +145,14 @@ public class ConversaoDeAlturaB {
 
             double polegadas = Math.round(sobraEmPes * 12);
 
-            System.out.printf("Altura pés e polegadas: %.2f %.2f%n" , pes, polegadas);
+            System.out.printf("Altura pés e polegadas: %d %d%n" , (int) pes, (int) polegadas);
             scanner.close();
         }
     }
 }
 ```
 
-### Teste de mesa
+### Teste de mesa B
 
 Entrada: 1.8
 Saída: 5 11
@@ -164,4 +166,3 @@ Saída: 5 11
 | Bloco 4 | 1.8 | 5 | 0.90 | 0 |
 | Bloco 5 | 1.8 | 5 | 0.90 | 11 |
 | Bloco 6 | 1.8 | 5 | 0.90 | 11 |
-
