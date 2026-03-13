@@ -85,6 +85,33 @@ Inicio
 FimAlgoritmo
 ```
 
+### Teste de mesa
+
+Entrada: 20 8 30 7 20 6.5
+Saída: 160 210 130 500
+
+|Bloco|Instrução|salario|horas|pagamentoAtual|total|Entrada|Saida|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|0|Início|0|0|0|0|0|0|
+|1|Escreva|0|0|0|0|0|"Salario 1 horas 1: "|
+|2|Leia|20|8|0|0|20 8|0|
+|3|Atribuição|20|8|160|0|0|0|
+|4|Escreva|20|8|160|0|0|160|
+|5|Atribuição|20|8|160|0|0|0|
+|6|Atribuição|20|8|160|160|0|0|
+|7|Escreva|0|0|0|0|0|"Salario 2 horas 2: "|
+|7|Leia|30|7|160|160|30 7|0|
+|8|Atribuição|30|7|210|160|0|0|
+|9|Escreva|30|7|210|160|0|210|
+|9|Atribuição|20|8|160|370|0|0|
+|10|Escreva|0|0|0|0|0|"Salario 3 horas 3: "|
+|9|Leia|20|6.5|160|370|20 6.5|0|
+|10|Atribuição|20|6.5|130|370|0|0|
+|10|Escreva|20|6.5|130|370|0|130|
+|11|Atribuição|20|6.5|130|500|0|0|
+|12|Escreva|20|6.6|130|500|0|500|
+|12|Fim|20|8|130|500|0|0|
+
 ### Java
 
 ```java
