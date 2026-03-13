@@ -75,6 +75,27 @@ Inicio
 Fimalgoritmo
 ```
 
+### Teste de mesa
+
+Entrada: 0.5 0.3 0.3 10 3.50
+Saída: 0.78 0.045 27.3.
+
+|Bloco|Instrução|a|b|c|area|volume|numeroCaixasProduzidas|custoM2|custoProducao|Entrada|Saida|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Bloco 0|Início|0|0|0|0|0|0|0|0|0|0|
+|Bloco 1|Leia|0.5|0.3|0.3|0|0|0|0|0|0.5 0.3 0.3|0|
+|Bloco 2|Atribuição|0.5|0.3|0.3|0.78|0|0|0|0|0|0|
+|Bloco 3|Escreva|0.5|0.3|0.3|0.78|0|0|0|0|0|0.78|
+|Bloco 4|Atribuição|0.5|0.3|0.3|0.78|0.045|0|0|0|0|0|
+|Bloco 5|Escreva|0.5|0.3|0.3|0.78|0.045|0|0|0|0|0.045|
+|Bloco 6|Escreva|0.5|0.3|0.3|0.78|0.045|0|0|0|0|"Informe a quantidade de caixas produzidas"|
+|Bloco 7|Leia|0.5|0.3|0.3|0.78|0.045|10|0|0|10|0|
+|Bloco 8|Escreva|0.5|0.3|0.3|0.78|0.045|10|0|0|"Informe o custo por metro quadrado"|0|
+|Bloco 9|Leia|0.5|0.3|0.3|0.78|0.045|10|3.5|0|3.5|0|
+|Bloco 10|Atribuição|0.5|0.3|0.3|0.78|0.045|10|3.5|27.3|0|0|
+|Bloco 10|Escreva|0.5|0.3|0.3|0.78|0.045|10|3.5|27.3|0|27.3|
+|Bloco 10|Fim|0.5|0.3|0.3|0.78|0.045|10|3.5|27.3|0|0|
+
 ### Java
 
 ```java
