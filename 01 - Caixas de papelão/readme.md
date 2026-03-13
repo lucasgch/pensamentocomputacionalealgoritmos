@@ -80,7 +80,7 @@ Fimalgoritmo
 Entrada: 0.5 0.3 0.3 10 3.50
 Saída: 0.78 0.045 27.3.
 <sub>
-|Bloco|Instrução|a|b|c|area|volume|nCaixas|custoM2|custoProducao|Entrada|Saida|
+|Bloco|Instrução|a|b|c|area|volume|nCaixas|custoM2|custoProd.|Entrada|Saida|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |0|Início|0|0|0|0|0|0|0|0|0|0|
 |1|Leia|0.5|0.3|0.3|0|0|0|0|0|0.5 0.3 0.3|0|
