@@ -27,3 +27,25 @@ graph TD
 | Bloco 2 | Atribuição | 100 | 37.7778 | 0 | 0
 | Bloco 3 | Escreva | 100 | 37.7778 | 0 | 37.7778
 | Bloco 4 | Fim | 100 | 37.7778 | 0 | 0
+
+### Java
+
+```java
+import java.util.Scanner;
+
+public class ConversaoTemperatura {
+    public static void main(String args[]){
+        double temperaturaEmFarenheit, temperaturaEmCelsius;
+        try(Scanner scanner = new Scanner(System.in)){
+            System.out.print("Digite a temperatura em Fahrenheit: ");
+            temperaturaEmFarenheit = scanner.nextDouble();
+
+            temperaturaEmCelsius = (temperaturaEmFarenheit - 32) * 5/9;
+
+            System.out.println("A temperatura em Celsius é: " + temperaturaEmCelsius);
+        }catch(Exception e){
+            System.out.println("Ocorreu um erro: " + e.getMessage());
+        }
+    }
+}
+```
