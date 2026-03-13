@@ -28,7 +28,7 @@ graph TD
 | Bloco 3 | Escreva | 100 | 37.7778 | 0 | 37.7778
 | Bloco 4 | Fim | 100 | 37.7778 | 0 | 0
 
-### Java
+## Java
 
 ```java
 import java.util.Scanner;
