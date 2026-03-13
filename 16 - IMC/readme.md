@@ -15,11 +15,11 @@ Saída: 27.102 Sobrepeso
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 | Bloco 0 | Início | 0 | 0 | 0 | 0 | 0 | 0
 | Bloco 1 | Escreva | 0 | 0 | 0 | 0 | 0 | "Informe o peso e altura: "
-| Bloco 1 | Leia | 83 | 1.75 | 0 | 0 | 83 1.75 | 0
-| Bloco 2 | Atribuição | 83 | 1.75 | 27.102 | 0 | 0 | 0
-| Bloco 3 | Escreva | 83 | 1.75 | 27.102 | 0 | 0 | 27.102
-| Bloco 4 | Condicional | 83 | 1.75 | 27.102 | 0 | 0 | 0
-| Bloco 4 | Condicional | 83 | 1.75 | 27.102 | 0 | 0 | 0
-| Bloco 4 | Atribuição | 83 | 1.75 | 27.102 | "Sobrepeso" | 0 | 0
+| Bloco 2 | Leia | 83 | 1.75 | 0 | 0 | 83 1.75 | 0
+| Bloco 3 | Atribuição | 83 | 1.75 | 27.102 | 0 | 0 | 0
+| Bloco 4 | Escreva | 83 | 1.75 | 27.102 | 0 | 0 | 27.102
+| Bloco 5 | Condicional | 83 | 1.75 | 27.102 | 0 | 0 | 0
+| Bloco 6 | Condicional | 83 | 1.75 | 27.102 | 0 | 0 | 0
+| Bloco 7 | Atribuição | 83 | 1.75 | 27.102 | "Sobrepeso" | 0 | 0
 | Bloco 8 | Saída | 83 | 1.75 | 27.102 | "Sobrepeso" | 0 | "Sobrepeso"
-| Bloco 9 | Fim | 2000 | 51 | 2051 | 0 | 0 | 0
+| Bloco 9 | Fim | 83 | 1.75 | 27.102 | "Sobrepeso" | 0 | 0
