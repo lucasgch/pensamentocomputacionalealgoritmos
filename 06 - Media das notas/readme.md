@@ -6,28 +6,48 @@ Elabore um fluxograma para um algoritmo que LÊ quatro número reais representan
 
 ```mermaid
 graph TD
-    A([Início]) --> B[/Leia nota/]
-    B --> C[media = media + nota]
-    C --> D[/Leia nota/]
-    D --> E[media = media + nota]
-    E --> F[/Leia nota/]
-    F --> G[media = media + nota]
-    G --> H[/Escreva media/]
-    H --> I([Fim])
+    A([Início]) --> B[/Leia media/]
+    B --> C[/Leia nota/]
+    C --> D[media = media + nota]
+    D --> E[/Leia nota/]
+    E --> F[media = media + nota]
+    F --> G[/Leia nota/]
+    G --> H[media = media + nota]
+    H --> I[/Escreva media/4/]
+    I --> J([Fim])
+```
+
+## Pseudocódigo
+
+```pseudocódigo
+Variáveis
+    nota, media: Número real (double)
+Início
+    media = 0
+    Leia nota
+    media = media + nota
+    Leia nota
+    media = media + nota
+    Leia nota
+    media = media + nota
+    Leia nota
+    media = media + nota
+    Escreva media/4
+Fim
 ```
 
 ## Teste de mesa
 
 | Bloco | instrução | nota | media | Entrada | Saida
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Bloco 0 | Início | 0 | 0 | 0 | 0 |
-| Bloco 1 | Leia | 7.5 | 0 | 7.5 | 0 |
-| Bloco 2 | Atribuição | 7.5 | 7.5 | 0 | 0 |
-| Bloco 3 | Leia | 8.0 | 7.5 | 8 | 0 |
-| Bloco 4 | Atribuição | 8.0 | 15.5 | 0 | 0 |
-| Bloco 5 | Leia | 5.5 | 15.5 | 5.5 | 0 |
-| Bloco 6 | Atribuição | 5.5 | 21 | 0 | 0 |
-| Bloco 7 | Leia | 9.0 | 21 | 9.0 | 0 |
-| Bloco 8 | Atribuição | 9.0 | 30 | 0 | 0 |
-| Bloco 9 | Escreva | 9.0 | 30 | 0 | 30 |
-| Bloco 10 | Fim | 9.0 | 30 | 0 | 30 |
+| :---: | :---: | :---: | :---: | :---: | :---:
+| Bloco 0 | Início | 0 | 0 | 0 | 0
+| Bloco 1 | Leia | 7.5 | 0 | 7.5 | 0
+| Bloco 2 | Atribuição | 7.5 | 7.5 | 0 | 0
+| Bloco 3 | Leia | 8.0 | 7.5 | 8 | 0
+| Bloco 4 | Atribuição | 8.0 | 15.5 | 0 | 0
+| Bloco 5 | Leia | 5.5 | 15.5 | 5.5 | 0
+| Bloco 6 | Atribuição | 5.5 | 21 | 0 | 0
+| Bloco 7 | Leia | 9.0 | 21 | 9.0 | 0
+| Bloco 8 | Atribuição | 9.0 | 30 | 0 | 0
+| Bloco 9 | Escreva | 9.0 | 30 | 0 | 7.5
+| Bloco 10 | Fim | 9.0 | 30 | 0 | 0
