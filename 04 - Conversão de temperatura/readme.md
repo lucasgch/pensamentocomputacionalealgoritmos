@@ -18,6 +18,18 @@ graph TD
 
 - [Link para fluxograma no fluxolab](https://fluxolab.app/?lzs=NoIhBplAXBTBbADrATgQ2gV3QUXgMQgAYBdSEOJVDbNPAYWJLKiPAGZwAWANjYA42YcgCMA9tGhj4IZpACM4ftz7ciQiMDnAATNxVt5qigmTosuAppDjJ02S04BWAxx1DKZmpcaiJUmW0ucB5XHS4PU2oLOnh6AF4AAgAKT2jaPHwAWnYdAEpEgCpEp0SAekSATmtbAIcWYEM2HRY9eTYuFmD2jkdwHvlmEiA)
 
+## Pseudocódigo
+
+```pseudocódigo
+Variáveis
+    temperaturaEmF, ptemperaturaEmC: Número
+Início
+    Leia temperaturaEmF
+    temperaturaEmC = (temperaturaEmF - 32) * 5 / 9
+    Escreva temperaturaEmC
+Fim
+```
+
 ## Teste de mesa
 
 | Bloco | instrução | temperaturaEmF | ptemperaturaEmC | Entrada | Saida
