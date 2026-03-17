@@ -7,4 +7,24 @@ Escreva um pseudocódigo que ESCREVE a sequência de Fibonacci, considerando ape
 
 Dica: Você precisará de três variáveis.
 
-## Fluxograma
+## Pseudocódigo
+
+```pseudocódigo
+Variáveis
+    fibonacciAtual: número
+    contador: número
+    contadorFinal: número
+    
+Início
+    fibonacciAtual=0
+    contador=0
+    contadorFinal=200
+
+    Enquanto (fibonacciAtual+contador<200)
+        fibonacciAtual = fibonacciAtual+contador
+        contador=contador+1
+        Escreva fibonacciAtual
+    FimEnquanto
+
+Fim
+```
