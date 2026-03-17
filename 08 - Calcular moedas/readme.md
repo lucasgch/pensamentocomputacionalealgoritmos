@@ -40,8 +40,47 @@ graph TD
 | Bloco 11 | Escreva | 1 | 0 | 0 | 1 | 2 | 2 | 0 | 10012
 | Bloco 12 | Fim | 1 | 0 | 0 | 1 | 2 | 2 | 0 | 0
 
+## Pseudocódigo
+
+Variáveis
+    n, m50, m25, m10, m5, m1: número
+Início
+    Escreva "Informe um número inteiro que representa o valor em centavos: "
+    Leia n
+    m50 = n div 50
+    n = n mod 50
+    m25 = n div 25
+    n = n mod 25
+    m10 = n div 10
+    n = n mod 10
+    m5 = n div 5
+    n = n mod 5
+    m1 = n
+    Escreva m50, " ", m25, " ", m10, " ", m5, " ", m1
+Fim
+
 ## Java
 
 ```java
+import java.util.Scanner;
 
+public class CalcularMoedas {
+    public static void main(String[] args){
+        int n, m50, m25, m10, m5, m1;
+        try(Scanner scanner = new Scanner(System.in)) {
+            System.out.print("Informe um número inteiro que representa o valor em centavos: ");
+            n = scanner.nextInt();
+            m50 = (int) (n / 50);
+            n = n % 50;
+            m25 = (int) (n / 25);
+            n = n % 25;
+            m10 = (int) (n / 10);
+            n = n % 10;
+            m5 = (int) (n / 5);
+            n = n % 5;
+            m1 = (int) (n / 1);
+            System.out.println(m50 + " " + m25 + " " + m10 + " " + m5 + " " + m1);
+        }
+    }
+}
 ```
