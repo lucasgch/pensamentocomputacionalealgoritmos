@@ -23,3 +23,23 @@ Fim
 | Bloco 2 | Atribuição | 1 | 5 | 3 | 13 | 0 | 0
 | Bloco 3 | Escreva | 1 | 5 | 3 | 13 | 0 | 13
 | Bloco 4 | Fim | 1 | 5 | 3 | 13 | 0 | 0
+
+## Java
+
+```java
+import java.util.Scanner;
+
+class Discriminante{
+    public static void main(String args[]){
+        try (Scanner scanner = new Scanner(System.in)) {
+            double a, b, c, delta;
+            System.out.print("Informe o valor de a, b e c: ");
+            a = scanner.nextDouble();
+            b = scanner.nextDouble();
+            c = scanner.nextDouble();
+            delta = b*b - 4*a*c;
+            System.out.println((int)delta);
+        }
+    }
+}
+```
