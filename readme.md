@@ -51,5 +51,5 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
   - Repetição com teste lógico no início
     - Exercícios em sala
       - 22 - [Número de referência](./22%20-%20Número%20de%20referência/readme.md)
-      - 23 - Fibonacci
+      - 23 - [Fibonacci](./23%20-%20Fibonacci/readme.md)
   - Repetição com teste lógico no fim
