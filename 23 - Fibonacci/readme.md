@@ -11,20 +11,42 @@ Dica: Você precisará de três variáveis.
 
 ```pseudocódigo
 Variáveis
-    fibonacciAtual: número
-    contador: número
-    contadorFinal: número
+    n1, n2: número
+    fibonacci: número
     
 Início
-    fibonacciAtual=0
-    contador=0
-    contadorFinal=200
+    n1= 0
+    n2= 1
+    fibonacci=0
 
-    Enquanto (fibonacciAtual+contador<200)
-        fibonacciAtual = fibonacciAtual+contador
-        contador=contador+1
-        Escreva fibonacciAtual
+
+    Enquanto (fibonacci<200)
+        Escreva fibonacci
+        fibonacci=n1+n2
+        n1=n2
+        n2=fibonacci
     FimEnquanto
 
 Fim
+```
+
+## Java
+
+```Java
+public class Fibonacci {
+
+    public static void main(String[] args){
+        int n1=0;
+        int n2=1;
+        int fibonacci=0;
+
+        while(fibonacci <= 200){
+            System.out.println(fibonacci);
+            n1 = n2;
+            n2 = fibonacci;
+            fibonacci = n1 + n2;
+        }
+    }
+
+}
 ```
