@@ -54,4 +54,4 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
       - 23 - [Fibonacci](./23%20-%20Fibonacci/readme.md)
   - Repetição com teste lógico no fim
       - 24 - [Quantidade e soma de dígitos](./24%20-%20Quantidade%20e%20soma%20dos%20dígitos/readme.md)
-      - 25 - [Maior número](./25%20Maior%20número/readme.md)
+      - 25 - [Maior número](./25%20-%20Maior%20número/readme.md)
