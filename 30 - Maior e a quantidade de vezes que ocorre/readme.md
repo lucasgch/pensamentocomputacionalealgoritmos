@@ -8,7 +8,7 @@ Ex.: `10 3 2 3 3 2 7 5 7 7 3`
 
 Saída: `O maior ocorre 3 vezes`
 
-```delphy
+```delphi
 Variáveis
     n,x, maior, ocorrencias: número
 Início
