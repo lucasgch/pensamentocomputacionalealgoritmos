@@ -98,8 +98,8 @@ Início
         Se real>maior
             maior=real
         FimSe
-        n=n-1
-    enquanto n!=0
+
+    enquanto real!=0
 
     Escreva maior        
 
