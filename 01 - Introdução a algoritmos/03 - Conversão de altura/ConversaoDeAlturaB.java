@@ -16,6 +16,7 @@ public class ConversaoDeAlturaB {
             double polegadas = Math.round(sobraEmPes * 12);
 
             System.out.printf("Altura pés e polegadas: %d %d%n" , (int) pes, (int) polegadas);
+            
             scanner.close();
         }
     }

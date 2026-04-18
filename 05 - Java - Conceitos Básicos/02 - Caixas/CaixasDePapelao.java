@@ -15,16 +15,24 @@ public class CaixasDePapelao {//ok
             area = 2*(comprimento * largura) + 2*(comprimento * altura) + 2*(largura * altura);
             volume = comprimento * largura * altura;
 
+            System.out.println("---------------------------------");
+
             System.out.println("Área da caixa: " + area);
             System.out.println("Volume da caixa: " + volume);
 
-            System.out.println("Informe um número inteiro representando a quantidade de caixas produzidas");
+            System.out.println("---------------------------------");
+
+            System.out.print("Informe um número inteiro representando a quantidade de caixas produzidas: ");
             int quantidade = scanner.nextInt();
 
-            System.out.println("Informe um número real representando o custo do metro quadrado");
+            System.out.print("Informe um número real representando o custo do metro quadrado: ");
             double custo = scanner.nextDouble();
 
+            System.out.println("---------------------------------");
+
             System.out.printf("Custo total: %.2f%n", (area * quantidade * custo));
+
+            System.out.println("-------- Fim do Programa --------");
         }
     }
 }
