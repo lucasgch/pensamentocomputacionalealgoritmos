@@ -44,5 +44,7 @@ public class Aprovado{
         aprovado = (mediaArredondada>=6)&&frequencia>=75;
 
         System.out.println("Aprovado: "+aprovado);
+
+        scanner.close();
     }
 }
