@@ -41,3 +41,40 @@ Tempo médio dos corredores: 30.3333
 **Obs.:**
 • Não há necessidade de executar teste de mesa.
 • Não há necessidade de escrever as mensagens de instrução ao usuário
+
+## Soluções
+
+- [Solução 1 no fluxolab](https://fluxolab.app/?lzs=NoIhBplBLATBDWBTCAGAupEAHJBnAezU1AGMDsC9itoA7AcyQCc54bQAzeAGwBd4AWw4hmScoKR0ECYiWCpwAZnAAmAByKAjKkVgsAIwJ8+BYehJbwAFjWbwWgGx62ycAAJchD+UrVDxqbmJKrgjnaKqqoujCxs7gC87r5UAFSqAKyoEKBGJmYgFpAqAOwRyrrgIK5IADwJWiU5IHlBEKLQDAAWfIUktmVZikqV1TJ1CRkZza0FVazdvUXAGeBlJdEVLuP1jtMB+cLznT19kOHhGsP2ouJmUjLwCdaoqV5EB23LZeFDyjdiCQPRBPJQZN74D65QIFZbqMJrTZKAF3STSEEJEYQwgzGHBSAATgRBJe-z0gPu6IQCUy2KhLTxZ2AOjWYU21hu9CYrAQAD4KWjHrjDu0FqdllorKs-iVRgAdEAAKQAh+54HwudAAK4K4VfSyhcIEzYZUkgbj8IQJAXAhAAWi5cVkn1hlhURs2jk25t4AkECQtfvcsGgADd3Jlsi78czbKtjYpZXpA0I9a7IFpVvCSqTNHochZ5NptJYHJEQmXlCQVFpQtZ+g4rCVq42wiRVpLwOoG7XwBl2w5QgSSOEWToSGUxxhIPCpyQiXOM9orJLLNpQrWDZWtEo3dv6xmV9p+xnbGP+xYgA)
+
+### Solução 2 em pseudocódigo
+
+```delphi
+Variáveis
+    iterador, numeroTotalCorredores, volta1, volta2: número
+    tempoDoCorredor, tempoTotalDaProva, tempoMédio: número
+
+Início
+
+    tempoTotalDaProva = 0
+    iterador = 1
+    
+    Escreva "Entre com o número de corredores: "
+    Leia numeroTotalCorredores
+
+    Enquanto (iterador<=numeroTotalCorredores)
+        Escreva "Entre com os tempos das voltas do corredor ", iterador, ": "
+        Leia volta1, volta2
+        tempoDoCorredor = volta1+volta2
+        tempoTotalDaProva = tempoTotalDaProva + tempoDoCorredor
+        iterador = iterador + 1
+    FimEnquanto
+
+    tempoMédio = tempoTotalDaProva/numeroTotalCorredores
+
+    Escreva "Tempo médio dos corredores: ",tempoMédio
+
+Fim
+```
+
+
+
