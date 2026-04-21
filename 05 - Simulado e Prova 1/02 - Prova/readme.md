@@ -39,3 +39,13 @@ Porcentagem de medições fora da faixa: 40%
 ***Obs.:***
 - Não há necessidade de executar teste de mesa.
 - Não há necessidade de escrever as mensagens de instrução ao usuário.
+
+## Soluções
+
+### Solução 1
+
+`#todo`
+
+### Solução 2
+
+`#todo`
