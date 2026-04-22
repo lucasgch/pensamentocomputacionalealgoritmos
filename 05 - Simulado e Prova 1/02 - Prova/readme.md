@@ -44,8 +44,36 @@ Porcentagem de medições fora da faixa: 40%
 
 ### Solução 1
 
-`#todo`
+[Link para fluxograma no Fluxolab](https://fluxolab.app/?lzs=NoIhBplBjB7A7AzgVwLawgBgLqRAFwEMAnASwDNCttcpNwBmcARgBZ7nN6w8AjWfPlioQNSM3CsW7FgA5ucJGgx8BQkWOAAmcAHZp9LQDYFCFOgA8AXk6YIofoOEQQZAOYALfKNpN9rGWNTJUsrLS57EEd1F3cvH0gpIwNGGQISCkIrRXNYACpMADoAVjtVJw1aYvBkgPoGNKIyShsuApLMAGoAChzlAFpbAEp23WLI6OdNZOTZcNTuJszWzHbSzttR4p6+9H7wzBHmCbUp2n1quskTcHTmqnKYzVlwF6vitPsaWmAODnOWPRZLQdMwJKxaBJOOAtCCWDoGL4WBJikjmDojFVAXpaFJobpaMl8d8gA)
 
 ### Solução 2
 
-`#todo`
+```delhpi
+Variáveis
+    inicial, final: número
+    contador: número
+    ph, total, foraDaFaixa: número
+    
+Início
+    Escreva "Entre com a faixa de PH desejada: "
+    Leia inicial, final
+    Escreva "Entre com o número de leituras: "
+    Leia total
+    contador=1
+    foraDaFaixa=0
+
+    Enquanto (contador <=total)
+        
+        Escreva "Entre com a medição de pH: "
+        Leia ph
+        Se (ph<inicial || ph >final)
+            foraDaFaixa=foraDaFaixa+1
+        FimSe
+        contador=contador+1
+
+    FimEnquanto
+    
+    Escreva (foraDaFaixa/total)*100,"%"
+    
+Fim
+```
