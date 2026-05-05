@@ -11,7 +11,6 @@ public class AnoBissexto {
         System.out.print("Entre com um ano: ");
         int ano = scanner.nextInt();
         
-        //# TODO: calcular
         if ( ano % 4 == 0 ){
             if ( ano % 100 == 0 && ano % 400 != 0 ) {
                 bissexto = 0;
