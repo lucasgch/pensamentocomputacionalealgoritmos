@@ -1,6 +1,6 @@
 # Calculadora.java
 
-- (Enunciado)[https://nobrega.prof/disciplinas/alg/slides/java-1/#/68]
+- [Enunciado](https://nobrega.prof/disciplinas/alg/slides/java-1/#/68)
 
 Elabore um programa que LÊ DO TECLADO uma expressão aritmética composta por um número real, um caractere representando uma operação matemática e outro número real (nesta ordem e separados por espaço), e ESCREVE NA TELA o resultado da operação.
 
