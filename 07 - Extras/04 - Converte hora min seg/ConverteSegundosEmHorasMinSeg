@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+java class ConverteSegundosEmHorasMinSeg{
+
+    public static void main(String args){
+
+    System.out.print("Entre com a quantidade de segundos: ");
+        int entradaEmSegundos = scanner.nextInt();
+
+        
+
+    }
+
+}
