@@ -5,6 +5,7 @@ public class Calculadora {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entre com a expressão: ");
         String entrada = scanner.nextLine();
+        scanner.close();
         System.out.println("Entrada = "+entrada);
         String [] n1OperadorN2 = entrada.split(" ");
 
@@ -12,17 +13,22 @@ public class Calculadora {
         String operador = n1OperadorN2[1].toString();
         double n2 = Double.parseDouble(n1OperadorN2[2]);
 
-        // teste entrada
-        // System.out.println(n1 +" "+ operador +" "+ n2);
+        if (operador.equals("/") && n2 == 0) {
+            System.err.println("Erro: Divisão por zero");
+        } else {
+            // O switch expression exige um caso 'default' ou cobrir todas as possibilidades
+            String resultado = switch (operador) {
+                case "*" -> String.valueOf(n1 * n2);
+                case "/" -> String.valueOf(n1 / n2);
+                case "+" -> String.valueOf(n1 + n2);
+                case "-" -> String.valueOf(n1 - n2);
+                default  -> "Operador inválido";
+            };
 
-        String resultado = switch(operador) {
-            case "*" -> (n1*n2).toString;
-            case "/" -> //todo;
-            case "+" -> //todo
-            case "-" -> //todo
+            System.out.println("Resultado: "+resultado);
         }
 
 
-        
+
     }
 }
