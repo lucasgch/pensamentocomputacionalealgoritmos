@@ -13,7 +13,7 @@ public class DiasDecorridos{
         int ano = Integer.parseInt(partes[2]);
 
         scanner.close();
-        
+
         System.out.println("Ano "+ano+" é bissexto? "+ehBissexto(ano));
         System.out.println("O mês "+mes+" tem "+numDias(mes, ano)+" dias no ano de "+ano+".");
         System.out.println("A data "+dia+"/"+mes+"/"+ano+" é válida? "+ehDataValida(dia, mes, ano));
@@ -39,11 +39,7 @@ public class DiasDecorridos{
     static int numDias(int mes, int ano){
         
         if (mes == 2){
-            if (ehBissexto(ano)){
-                return 29;
-            } else {
-                return 28;
-            }
+            return ehBissexto(ano)? 29 : 28;
         }
         int dias = switch (mes) {
             case 1, 3, 5, 7, 8, 10, 12 -> 31;
