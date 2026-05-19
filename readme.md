@@ -79,11 +79,11 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 - 07 - [Date](06%20-%20Java%20-%20Conceitos%20Básicos/07%20-%20Date/readme.md)
 - 08 - [Calculadora](06%20-%20Java%20-%20Conceitos%20Básicos/08%20-%20Calculadora/readme.md)
 
-## 7. Exercícios extras
+## 8. Exercícios extras
 
-- 01 - [Celsius Farenheit](07%20-%20Extras/01%20-%20Celsius%20Farenheit/readme.md)
-- 02 - [Ano bissexto](07%20-%20Extras/02%20-%20Ano%20bissexto/readme.md)
-- 03 - [Classificar triângulos](07%20-%20Extras/03%20-%20Classificar%20triangulos/readme.md)
-- 04 - [Converte hora min seg](07%20-%20Extras/04%20-%20Converte%20hora%20min%20seg/readme.md)
-- 05 - [Taxa de corretagem](07%20-%20Extras/05%20-%20Taxa%20de%20Corretagem/readme.md)
-- 06 - [Números por extenso](07%20-%20Extras/06%20-%20Numeros%20por%20extenso/readme.md)
+- 01 - [Celsius Farenheit](08%20-%20Extras/01%20-%20Celsius%20Farenheit/readme.md)
+- 02 - [Ano bissexto](08%20-%20Extras/02%20-%20Ano%20bissexto/readme.md)
+- 03 - [Classificar triângulos](08%20-%20Extras/03%20-%20Classificar%20triangulos/readme.md)
+- 04 - [Converte hora min seg](08%20-%20Extras/04%20-%20Converte%20hora%20min%20seg/readme.md)
+- 05 - [Taxa de corretagem](08%20-%20Extras/05%20-%20Taxa%20de%20Corretagem/readme.md)
+- 06 - [Números por extenso](08%20-%20Extras/06%20-%20Numeros%20por%20extenso/readme.md)
