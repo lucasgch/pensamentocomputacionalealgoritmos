@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.management.RuntimeErrorException;
-
 public class DiasDecorridos{
     public static void main(String args[]) {
         
