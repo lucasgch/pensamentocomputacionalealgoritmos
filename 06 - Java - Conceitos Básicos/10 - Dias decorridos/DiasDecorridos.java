@@ -110,7 +110,10 @@ public class DiasDecorridos{
             }
             case 2: {
                 totalDias += numDias(2, ano);
-            }   
+            }
+            case 1: {
+                totalDias += numDias(1, ano);
+            }
         }
 
         return totalDias+dia;
