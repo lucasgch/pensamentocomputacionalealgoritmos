@@ -6,6 +6,7 @@ public class Moedas{
         System.out.print("Entre com a quantidade de centavos: ");
         Scanner scanner = new Scanner(System.in);
         int centavos = scanner.nextInt();
+        scanner.close();
 
         int m50 = 0;
         int m25 = 0;
