@@ -27,15 +27,25 @@ public class Logistica {
     }
 
     static double calculaAdicional(double peso){
-        if (peso<=0.5){
-            return 0;
+
+        double adicional;
+
+        if (peso<=0){
+            throw new RuntimeException("Peso inválido");
+        } else if (peso<=0.5){
+            adicional = 0;
         } else if (peso <=2){
-            return 15.0;
+            adicional = 15.0;
         } else if (peso<=10){
-            return 25.0;
+            adicional = 25.0;
+        } else {
+            double gramaAdicional = (peso - 10) * 1000;
+            System.out.println("Peso adicional: " + gramaAdicional);
+            adicional = 50 + ( gramaAdicional * 0.01 );
+            System.out.println("Valor adicional: " + adicional);
         }
-        double pesoAdicional = (10 - peso) * 1000;
-        return 50+(0.01*(pesoAdicional));
+
+        return adicional;
     }
 
     static double aplicaPrazo(double fretePadrao, int tipoPrazoEntrega){
