@@ -60,16 +60,15 @@ public class Logistica {
     static double calculaFrete(String regiao, double peso, int tipoPrazoEntrega){
         double valorFinalFrete = 0;
         
-        // Obtém o preço base
+        // Obtém o preço base e adiciona ao valor final do frete
         double precoBase = obtemPrecoBase(regiao);
         valorFinalFrete+=precoBase;
 
-        // Calcula o adicional
+        // Calcula e adiciona o adicional ao valor final do frete
         double adicional = calculaAdicional(peso);
-        
         valorFinalFrete+=adicional;
 
-        // Adiciona o valor de prazo
+        // Calcula e adiciona o valor de prazo ao valor final do frete
         double valorFreteComPrazo = aplicaPrazo(valorFinalFrete, tipoPrazoEntrega);
         valorFinalFrete= valorFreteComPrazo;
         
