@@ -79,7 +79,7 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 - 07 - [Date](06%20-%20Java%20-%20Conceitos%20Básicos/07%20-%20Date/readme.md)
 - 08 - [Calculadora](06%20-%20Java%20-%20Conceitos%20Básicos/08%20-%20Calculadora/readme.md)
 
-## Comandos de repetição
+## 7. Comandos de repetição
 
 - 01 - [Soma de Dígitos]()
 - 02 -[Esquadrão Degrau]()
