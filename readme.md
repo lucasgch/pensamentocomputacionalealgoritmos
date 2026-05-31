@@ -95,6 +95,6 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 
 ## 9. Simulado e prova 2
 
-- 01 - [Simulado 02]()
-- 02 - [Prova 02]()
+- 01 - [Simulado 02](./09%20-%20Simulado%20e%20Prova%202/01%20-%20Simulado%2002/readme.md)
+- 02 - [Prova 02](./09%20-%20Simulado%20e%20Prova%202/02%20-%20Prova%2002/readme.md)
 
