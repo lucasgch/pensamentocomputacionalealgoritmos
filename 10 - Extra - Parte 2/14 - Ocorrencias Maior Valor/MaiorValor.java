@@ -9,7 +9,6 @@ public class MaiorValor {
         int maior = 0;
         int ocorrenciasIguaisOuMaior = 0;
 
-
         do{
             entrada = scanner.nextInt();
             if (entrada > maior){
