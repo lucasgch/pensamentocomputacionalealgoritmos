@@ -33,7 +33,8 @@ public class Rpg {
             }
             default -> System.out.println("Classe inválida!");
         }
-                
+        
+        scanner.close();       
     }
     
     static int nivelMinimo(int v0, int inc, int v){
