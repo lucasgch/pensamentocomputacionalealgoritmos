@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class SomarDigitos{
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entre com um inteiro não-negativo: ");
