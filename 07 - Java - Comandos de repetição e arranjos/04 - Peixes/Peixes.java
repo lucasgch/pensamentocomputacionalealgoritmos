@@ -23,6 +23,7 @@ public class Peixes {
                 foraDaFaixa++;
             }
         }
+        sc.close();
         System.out.println("Número de medições fora da faixa: " + foraDaFaixa);
     }
 
