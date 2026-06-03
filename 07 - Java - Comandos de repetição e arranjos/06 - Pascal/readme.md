@@ -16,7 +16,7 @@ Aqui está a formatação ideal do seu exercício em **Markdown**, utilizando ex
 
 ---
 
-### Exercício: Coeficiente Binomial com Potência Fatorial
+## Exercício: Coeficiente Binomial com Potência Fatorial
 
 Neste exercício, utilizaremos a seguinte fórmula para calcular o coeficiente binomial de $n$ na classe $k$:
 
