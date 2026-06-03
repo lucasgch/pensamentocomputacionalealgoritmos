@@ -5,46 +5,46 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 ## 1. Introdução a algoritmos
 
 - Introdução. Fluxo sequencial. Expressões lógicas. Fluxo condicional. Fluxo iterativo.
-    - Exercícios em sala: Fluxograma, pseudocódigo e teste de mesa
-        - 01 - [Caixas de papelão](./01%20-%20Caixas%20de%20papelão/readme.md)
-        - 02 - [Pagamento de colaboradores](./02%20-%20Pagamento%20de%20colaboradores/readme.md)
-        - 03 - [Conversão de altura (pés,polegadas - metros)](./03%20-%20Conversão%20de%20altura/readme.md)
-    - Exercícios para casa
-        - 04 - [Conversão de temperatura](./04%20-%20Conversão%20de%20temperatura/readme.md)
-        - 05 - [Valor do discriminante](./05%20-%20Valor%20do%20discriminante/readme.md)
-        - 06 - [Media das notas](./06%20-%20Media%20das%20notas/readme.md)
-        - 07 - [Conversor binário para decimal](./07%20-%20Conversor%20binário%20para%20decimal/readme.md)
-        - 08 - [Calcular moedas](./08%20-%20Calcular%20moedas/readme.md)
+  - Exercícios em sala: Fluxograma, pseudocódigo e teste de mesa
+    - 01 - [Caixas de papelão](./01%20-%20Caixas%20de%20papelão/readme.md)
+    - 02 - [Pagamento de colaboradores](./02%20-%20Pagamento%20de%20colaboradores/readme.md)
+    - 03 - [Conversão de altura (pés,polegadas - metros)](./03%20-%20Conversão%20de%20altura/readme.md)
+  - Exercícios para casa
+    - 04 - [Conversão de temperatura](./04%20-%20Conversão%20de%20temperatura/readme.md)
+    - 05 - [Valor do discriminante](./05%20-%20Valor%20do%20discriminante/readme.md)
+    - 06 - [Media das notas](./06%20-%20Media%20das%20notas/readme.md)
+    - 07 - [Conversor binário para decimal](./07%20-%20Conversor%20binário%20para%20decimal/readme.md)
+    - 08 - [Calcular moedas](./08%20-%20Calcular%20moedas/readme.md)
 
 ## 2. Expressões lógicas
 
 - Tipos booleanos, operadores de comparação, operadores lógicos, tabelas verdade
-    - Exercícios em sala:
-        - 09 - [Voto no Brasil](./09%20-%20Voto%20no%20Brasil/readme.md)
-        - 10 - [Ano Bissexto](./10%20-%20Ano%20Bissexto/readme.md)
-    - Exercícios para casa
-        - 11 - [Cáculo aposentadoria](./11%20-%20Calculo%20Aposentadoria/readme.md)
-        - 12 - [Vogal ou consoante](./12%20-%20Vogal%20ou%20consoante/readme.md)
-        - 13 - [Número especial divisível por 2 ou 3](./13%20-%20Especial%20divisível%20por%202%20ou%203/readme.md)
+  - Exercícios em sala:
+    - 09 - [Voto no Brasil](./09%20-%20Voto%20no%20Brasil/readme.md)
+    - 10 - [Ano Bissexto](./10%20-%20Ano%20Bissexto/readme.md)
+  - Exercícios para casa
+    - 11 - [Cáculo aposentadoria](./11%20-%20Calculo%20Aposentadoria/readme.md)
+    - 12 - [Vogal ou consoante](./12%20-%20Vogal%20ou%20consoante/readme.md)
+    - 13 - [Número especial divisível por 2 ou 3](./13%20-%20Especial%20divisível%20por%202%20ou%203/readme.md)
 
 ## 3. Fluxo condicional
 
 - Desvio condicional simples
-    - Exercício em sala:
-        - 14 - [Quantidade de números acima da média](./14%20-%20Numeros%20acima%20da%20media/readme.md)
+  - Exercício em sala:
+    - 14 - [Quantidade de números acima da média](./14%20-%20Numeros%20acima%20da%20media/readme.md)
 - Desvio condicional composto
-    - Exercício em sala:
-        - 15 - [Taxa de conveniência](./15%20-%20Taxa%20de%20conveniencia/readme.md)
+  - Exercício em sala:
+    - 15 - [Taxa de conveniência](./15%20-%20Taxa%20de%20conveniencia/readme.md)
 - Alinhamento de estruturas de decisão
 - Desvio condicional encadeado
 - Exercício em sala
-    - 16 - [IMC](./16%20-%20IMC/readme.md)
+  - 16 - [IMC](./16%20-%20IMC/readme.md)
 - Exercícios para casa
-    - 17 - [Maior de três](./17%20-%20Maior%20de%20três/readme.md)
-    - 18 - [Remuneração mensal](./18%20-%20Remuneração%20mensal/readme.md)
-    - 19 - [Pertence ao conjunto](./19%20-%20Pertence%20ao%20conjunto/readme.md)
-    - 20 - [Classifica triângulo](./20%20-%20Classifica%20triângulo/readme.md)
-    - 21 - [Avalia aluno](./21%20-%20Avalia%20aluno/readme.md)
+  - 17 - [Maior de três](./17%20-%20Maior%20de%20três/readme.md)
+  - 18 - [Remuneração mensal](./18%20-%20Remuneração%20mensal/readme.md)
+  - 19 - [Pertence ao conjunto](./19%20-%20Pertence%20ao%20conjunto/readme.md)
+  - 20 - [Classifica triângulo](./20%20-%20Classifica%20triângulo/readme.md)
+  - 21 - [Avalia aluno](./21%20-%20Avalia%20aluno/readme.md)
 
 ## 4. Fluxo iterativo
 
@@ -83,8 +83,12 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 
 ## 7. Comandos de repetição
 
-- 01 - [Soma de Dígitos]()
-- 02 - [Esquadrão Degrau]()
+- 01 - [Soma de Dígitos](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/01%20-%20SomaDigitos/readme.md)
+- 02 - [Esquadrão Degrau](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/02%20-%20EsquadraoDegrau/readme.md)
+- 03 - [Segredo](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/03%20-%20Segredo/readme.md)
+- 04 - [Faixas de PH com while](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/04%20-%20Peixes/readme.md)
+- 05 - [Divisores com For](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/05%20-%20Divisores/readme.md)
+- 06 - [Pascal com For](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/06%20-%20Pascal/readme.md)
 
 ## 8. Exercícios extras
 
@@ -96,10 +100,9 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 - 06 - [Números por extenso](08%20-%20Extras/06%20-%20Numeros%20por%20extenso/readme.md)
 - 07 - [Avaliações de PGR1](./08%20-%20Extras/07%20-%20Avaliacoes%20de%20PGR1/readme.md)
 - 08 - [Código de barras EAN-13](./08%20-%20Extras/08%20-%20Código%20de%20barras%20EAN-13/readme.md)
-- 09 - [Moedas](./08%20-%20Extras/09%20-%20Moedas/readme.md) 
+- 09 - [Moedas](./08%20-%20Extras/09%20-%20Moedas/readme.md)
 
 ## 9. Simulado e prova 2
 
 - 01 - [Simulado 02](./09%20-%20Simulado%20e%20Prova%202/01%20-%20Simulado%2002/readme.md)
 - 02 - [Prova 02](./09%20-%20Simulado%20e%20Prova%202/02%20-%20Prova%2002/readme.md)
-
