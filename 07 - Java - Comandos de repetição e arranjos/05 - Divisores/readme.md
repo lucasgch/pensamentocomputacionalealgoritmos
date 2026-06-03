@@ -2,12 +2,12 @@
 
 Elabore um programa que LÊ DO TECLADO um inteiro positivo n e ESCREVE NA TELA todos os divisores de n, bem como se n é um número primo ou não.
 
-## Restrições:
+## Restrições
 
 Utilize o comando for .
 A lista de divisores deve ser escrita entre colchetes, com os divisores separados por vírgula.
 
-## Exemplos de execução:
+## Exemplos de execução
 
 ```text
 Entre com um inteiro positivo: 8128
