@@ -5,7 +5,7 @@ public class MaiorValor {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Entre com inteiros positivos. Entre com 0 ou um inteiro negativo para terminar.");
-        int entrada = 0;
+        int entrada;
         int maior = 0;
         int ocorrenciasIguaisOuMaior = 0;
 
