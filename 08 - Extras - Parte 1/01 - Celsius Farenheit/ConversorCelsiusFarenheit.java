@@ -10,6 +10,8 @@ public class ConversorCelsiusFarenheit {
         final double TEMPEMF = scanner.nextDouble();
         tempEmC = (TEMPEMF-32)/1.8;
 
+        scanner.close();
+
         System.out.printf("Temperatura em Celsius: %.1f\n",tempEmC);
 
     }
