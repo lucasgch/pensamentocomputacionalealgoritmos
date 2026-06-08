@@ -16,6 +16,7 @@ public class Resistencias{
             rparalelo+=1/resistencia;
         }
         rparalelo=Math.pow(rparalelo, -1);
+        scanner.close();
 
         System.out.printf("Resistência série: %.0f ohm %n",rserie);
         System.out.printf("Resistência paralelo: %.3f ohm %n",rparalelo);
