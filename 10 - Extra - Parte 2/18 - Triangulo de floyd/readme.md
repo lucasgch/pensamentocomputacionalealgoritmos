@@ -1,4 +1,4 @@
-## Triângulo de Floyd
+# Triângulo de Floyd
 
 O Triângulo de Floyd é um triângulo em que os números naturais, começando em 1, são consecutivamente dispostos em linhas de tal modo que a primeira linha contém um número, a segunda linha contém dois números, a terceira linha contém três números, e assim por diante. Por exemplo, o triângulo de Floyd com 5 linhas é:
 
