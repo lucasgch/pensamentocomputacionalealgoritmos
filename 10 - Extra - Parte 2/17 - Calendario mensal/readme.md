@@ -23,9 +23,9 @@ Entre com o primeiro dia da semana (1=Dom, 7=Sab): {int}
 
 ## Dicas
 
-1. Este programa não é tão difícil quanto parece. A parte mais importante é um comando for que utiliza uma variável i que vai de 1 até o número de dias do mês, imprimindo cada valor de i. Dentro do loop, um comando if testa se i corresponde a um sábado; se for o caso, um caractere de quebra-de-linha deve ser impresso.
+1. Este programa não é tão difícil quanto parece. A parte mais importante é um comando `for` que utiliza uma variável `i` que vai de 1 até o número de dias do mês, imprimindo cada valor de `i`. Dentro do loop, um comando if testa se `i` corresponde a um sábado; se for o caso, um caractere de quebra-de-linha deve ser impresso.
 
-2. Para imprimir um inteiro que ocupa exatamente dois caracteres, utilize o especificador "%2d" no printf.
+2. Para imprimir um inteiro que ocupa exatamente dois caracteres, utilize o especificador `"%2d"` no printf.
 
 ## Exemplos
 
