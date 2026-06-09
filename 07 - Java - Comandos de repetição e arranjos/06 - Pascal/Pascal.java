@@ -42,7 +42,7 @@ public class Pascal {
     static void imprimePascal(int nMax){
         for (int i=0; i<=nMax; i++){
             for (int j=0; j<=i; j++){
-                System.out.printf("%3d ", coeficienteBinomial(i, j));
+                System.out.printf("%2d ", coeficienteBinomial(i, j));
             }
             System.out.println();
         }
