@@ -89,6 +89,7 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 - 04 - [Faixas de PH com while](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/04%20-%20Peixes/readme.md)
 - 05 - [Divisores com For](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/05%20-%20Divisores/readme.md)
 - 06 - [Pascal com For](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/06%20-%20Pascal/readme.md)
+- 07 - [Reservatório](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/07%20-%20Reservatorio/readme.md)
 
 ## 8. Exercícios extras
 
@@ -106,3 +107,18 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 
 - 01 - [Simulado 02](./09%20-%20Simulado%20e%20Prova%202/01%20-%20Simulado%2002/readme.md)
 - 02 - [Prova 02](./09%20-%20Simulado%20e%20Prova%202/02%20-%20Prova%2002/readme.md)
+
+## 10. Extra - Parte 2
+
+- 10 - [Sequência de Collatz](./10%20-%20Extra%20-%20Parte%202/10%20-%20Sequência%20de%20Collatz/readme.md)
+- 11 - [Contagem de palavras](./10%20-%20Extra%20-%20Parte%202/11%20-%20Contagem%20de%20palavras/readme.md)
+- 12 - [Jogo Interpretação de papéis](./10%20-%20Extra%20-%20Parte%202/12%20-%20Jogo%20intepretacao%20papeis/readme.md)
+- 13 - [Sistema Conrole Acesso](./10%20-%20Extra%20-%20Parte%202/13%20-%20Sistema%20Controle%20Acesso/readme.md)
+- 14 - [Ocorrências de Maior Valor](./10%20-%20Extra%20-%20Parte%202/14%20-%20Ocorrencias%20Maior%20Valor/readme.md)
+- 15 - [Resistências em Série e Paralelo](./10%20-%20Extra%20-%20Parte%202/15%20-%20Resistencias%20Serie%20e%20Paralelo/readme.md)
+- 16 - [Números amigos](./10%20-%20Extra%20-%20Parte%202/16%20-%20Números%20amigos/readme.md)
+- 17 - [Calendário mensal](./10%20-%20Extra%20-%20Parte%202/17%20-%20Calendario%20mensal/readme.md)
+- 18 - [Triângulo de floyd](./10%20-%20Extra%20-%20Parte%202/18%20-%20Triangulo%20de%20floyd/readme.md)
+- 19 - [Um elefante incomoda](./10%20-%20Extra%20-%20Parte%202/19%20-%20Um%20elefante%20incomoda/readme.md)
+- 20 - [Notas da turma](./10%20-%20Extra%20-%20Parte%202/20%20-%20Notas%20da%20turma/readme.md)
+
