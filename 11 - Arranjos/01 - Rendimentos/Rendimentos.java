@@ -10,36 +10,29 @@ public class Rendimentos {
 
         double taxa[] = new double[NUM_TAXAS];
         double valor[] = new double[NUM_TAXAS];
-        
-        double taxaAtual = TAXA_INICIAL;
-        int anoAtual = 1;
-        
-        for (int linha = 0; linha < NUM_TAXAS; linha++) {
-            // Imprime o cabeçalho da tabela
-            if (linha == 0) {
-                System.out.printf("Ano %6.1f   %5.1f   %6.1f   %7.1f   %6.1f   ", taxaAtual, taxaAtual+PASSO_TAXA, taxaAtual+PASSO_TAXA*2, taxaAtual+PASSO_TAXA*3, taxaAtual+PASSO_TAXA*4, taxaAtual+PASSO_TAXA*4);
-                continue; // Pula para a próxima iteração para não calcular os rendimentos no cabeçalho
-            }
-            valor[linha]= VALOR_INICIAL;
 
-            for (int coluna = 0; coluna <= NUM_ANOS; coluna++) {
-            
-                // Imprime o número do ano
-                if (coluna == 0) {
-                    System.out.printf("%n%2d  ", anoAtual);
-                    anoAtual++;
-                }
-                taxa[coluna] = TAXA_INICIAL + (coluna * PASSO_TAXA) ;
-            
-                double valorAtual = VALOR_INICIAL + ( VALOR_INICIAL * taxa[coluna] / 100 );
-                System.out.printf("%8.2f " , valorAtual);
-                
+        for (int linhaAno = 0; linhaAno <= NUM_ANOS; linhaAno++) {
+
+            if (linhaAno == 0) { // Imprime o cabeçalho da linha
+                System.out.printf("%-5s", "Ano");
+            } else {
+                System.out.printf("%2d   ", linhaAno);
             }
-            
-            taxaAtual += PASSO_TAXA;
+
+            for (int colunaTaxa = 0; colunaTaxa < NUM_TAXAS; colunaTaxa++) {
+
+                
+                if (linhaAno == 0) { // Imprime o cabeçalho da coluna
+                    taxa[colunaTaxa] = TAXA_INICIAL + (colunaTaxa * PASSO_TAXA);
+                    valor[colunaTaxa] = VALOR_INICIAL;
+                    System.out.printf("%10.1f%%", taxa[colunaTaxa]);
+                } else {
+                    valor[colunaTaxa] *= 1 + (taxa[colunaTaxa] / 100.0);
+                    System.out.printf("%11.2f", valor[colunaTaxa]);
+                }
+            }
+
+            System.out.println();
         }
-        System.out.println();
-        
     }
-    
 }
