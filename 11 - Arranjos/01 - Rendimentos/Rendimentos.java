@@ -21,7 +21,6 @@ public class Rendimentos {
 
             for (int colunaTaxa = 0; colunaTaxa < NUM_TAXAS; colunaTaxa++) {
 
-                
                 if (linhaAno == 0) { // Imprime o cabeçalho da coluna
                     taxa[colunaTaxa] = TAXA_INICIAL + (colunaTaxa * PASSO_TAXA);
                     valor[colunaTaxa] = VALOR_INICIAL;
