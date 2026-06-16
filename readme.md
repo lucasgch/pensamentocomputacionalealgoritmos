@@ -125,5 +125,5 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 ## 11 - Arranjos
 
 - 1 - [Rendimentos](./11%20-%20Arranjos/01%20-%20Rendimentos/readme.md)
-- 2 - [Horas de Vôo](./11%20-%20Arranjos/02%20-%20Horarios%20voo/readme.md)
+- 2 - [Horas de Voo](./11%20-%20Arranjos/02%20-%20Horarios%20voo/readme.md)
 - 3 - [Histograma](./11%20-%20Arranjos/03%20-%20Histograma/readme.md)
