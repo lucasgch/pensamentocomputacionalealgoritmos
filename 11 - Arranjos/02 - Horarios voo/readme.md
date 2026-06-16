@@ -4,7 +4,7 @@ Uma companhia aérea oferece os seguintes voos diários entre duas cidades:
 
 Elabore um programa que lê do teclado o horário atual no formato de 24 horas ( HH:MM ) e escreve na tela os horários de partida e chegada do próximo voo disponível (caso haja), ou a mensagem "Não há mais voos disponíveis hoje" (se for este o caso).
 
-## Restrições:
+## Restrições
 
 - Escreva um (ou reaproveite do exercício Evento.java o) método horarioParaMinutos , que recebe um string representando um horário no formato HH:MM e retorna um inteiro representando a quantidade de minutos decorridos desde a meia noite.
 - Armazene os horários de partida e chegada em dois arranjos constantes, PARTIDA e CHEGADA, respectivamente; os elementos dos arranjos devem ser strings no formato HH:MM
