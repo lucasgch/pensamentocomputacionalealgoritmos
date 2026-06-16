@@ -83,13 +83,13 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 
 ## 7. Comandos de repetição
 
-- 01 - [Soma de Dígitos](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/01%20-%20SomaDigitos/readme.md)
-- 02 - [Esquadrão Degrau](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/02%20-%20EsquadraoDegrau/readme.md)
-- 03 - [Segredo](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/03%20-%20Segredo/readme.md)
-- 04 - [Faixas de PH com while](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/04%20-%20Peixes/readme.md)
-- 05 - [Divisores com For](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/05%20-%20Divisores/readme.md)
-- 06 - [Pascal com For](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/06%20-%20Pascal/readme.md)
-- 07 - [Reservatório](./07%20-%20Java%20-%20Comandos%20de%20repetição%20e%20arranjos/07%20-%20Reservatorio/readme.md)
+- 01 - [Soma de Dígitos](./07%20-%20Java%20-%20Comandos%20de%20repetição/01%20-%20SomaDigitos/readme.md)
+- 02 - [Esquadrão Degrau](./07%20-%20Java%20-%20Comandos%20de%20repetição/02%20-%20EsquadraoDegrau/readme.md)
+- 03 - [Segredo](./07%20-%20Java%20-%20Comandos%20de%20repetição/03%20-%20Segredo/readme.md)
+- 04 - [Faixas de PH com while](./07%20-%20Java%20-%20Comandos%20de%20repetição/04%20-%20Peixes/readme.md)
+- 05 - [Divisores com For](./07%20-%20Java%20-%20Comandos%20de%20repetição/05%20-%20Divisores/readme.md)
+- 06 - [Pascal com For](./07%20-%20Java%20-%20Comandos%20de%20repetição/06%20-%20Pascal/readme.md)
+- 07 - [Reservatório](./07%20-%20Java%20-%20Comandos%20de%20repetição/07%20-%20Reservatorio/readme.md)
 
 ## 8. Exercícios extras
 
