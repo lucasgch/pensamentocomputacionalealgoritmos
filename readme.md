@@ -91,17 +91,17 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 - 06 - [Pascal com For](./07%20-%20Java%20-%20Comandos%20de%20repetição/06%20-%20Pascal/readme.md)
 - 07 - [Reservatório](./07%20-%20Java%20-%20Comandos%20de%20repetição/07%20-%20Reservatorio/readme.md)
 
-## 8. Exercícios extras
+## 8. Exercícios extras - Parte 1
 
-- 01 - [Celsius Farenheit](08%20-%20Extras/01%20-%20Celsius%20Farenheit/readme.md)
-- 02 - [Ano bissexto](08%20-%20Extras/02%20-%20Ano%20bissexto/readme.md)
-- 03 - [Classificar triângulos](08%20-%20Extras/03%20-%20Classificar%20triangulos/readme.md)
-- 04 - [Converte hora min seg](08%20-%20Extras/04%20-%20Converte%20hora%20min%20seg/readme.md)
-- 05 - [Taxa de corretagem](08%20-%20Extras/05%20-%20Taxa%20de%20Corretagem/readme.md)
-- 06 - [Números por extenso](08%20-%20Extras/06%20-%20Numeros%20por%20extenso/readme.md)
-- 07 - [Avaliações de PGR1](./08%20-%20Extras/07%20-%20Avaliacoes%20de%20PGR1/readme.md)
-- 08 - [Código de barras EAN-13](./08%20-%20Extras/08%20-%20Código%20de%20barras%20EAN-13/readme.md)
-- 09 - [Moedas](./08%20-%20Extras/09%20-%20Moedas/readme.md)
+- 01 - [Celsius Farenheit](./08%20-%20Extras%20-%20Parte%201/01%20-%20Celsius%20Farenheit/readme.md08%20-%20Extras/01%20-%20Celsius%20Farenheit/readme.md)
+- 02 - [Ano bissexto](./08%20-%20Extras%20-%20Parte%201/02%20-%20Ano%20bissexto/readme.md)
+- 03 - [Classificar triângulos](./08%20-%20Extras%20-%20Parte%201/03%20-%20Classificar%20triangulos/readme.md)
+- 04 - [Converte hora min seg](./08%20-%20Extras%20-%20Parte%201/04%20-%20Converte%20hora%20min%20seg/readme.md)
+- 05 - [Taxa de corretagem](./08%20-%20Extras%20-%20Parte%201/05%20-%20Taxa%20de%20Corretagem/readme.md)
+- 06 - [Números por extenso](./08%20-%20Extras%20-%20Parte%201/06%20-%20Numeros%20por%20extenso/readme.md)
+- 07 - [Avaliações de PGR1](./08%20-%20Extras%20-%20Parte%201/07%20-%20Avaliacoes%20de%20PGR1/readme.md)
+- 08 - [Código de barras EAN-13](./08%20-%20Extras%20-%20Parte%201/08%20-%20Código%20de%20barras%20EAN-13/readme.md)
+- 09 - [Moedas](./08%20-%20Extras%20-%20Parte%201/09%20-%20Moedas/readme.md)
 
 ## 9. Simulado e prova 2
 
