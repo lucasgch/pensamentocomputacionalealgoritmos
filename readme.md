@@ -31,36 +31,36 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 
 - Desvio condicional simples
   - Exercício em sala:
-    - 14 - [Quantidade de números acima da média](./14%20-%20Numeros%20acima%20da%20media/readme.md)
+    - 14 - [Quantidade de números acima da média](./03%20-%20Fluxo%20condicional/14%20-%20Numeros%20acima%20da%20media/readme.md)
 - Desvio condicional composto
   - Exercício em sala:
-    - 15 - [Taxa de conveniência](./15%20-%20Taxa%20de%20conveniencia/readme.md)
+    - 15 - [Taxa de conveniência](./03%20-%20Fluxo%20condicional/15%20-%20Taxa%20de%20conveniencia/readme.md)
 - Alinhamento de estruturas de decisão
 - Desvio condicional encadeado
 - Exercício em sala
-  - 16 - [IMC](./16%20-%20IMC/readme.md)
+  - 16 - [IMC](./03%20-%20Fluxo%20condicional/16%20-%20IMC/readme.md)
 - Exercícios para casa
-  - 17 - [Maior de três](./17%20-%20Maior%20de%20três/readme.md)
-  - 18 - [Remuneração mensal](./18%20-%20Remuneração%20mensal/readme.md)
-  - 19 - [Pertence ao conjunto](./19%20-%20Pertence%20ao%20conjunto/readme.md)
-  - 20 - [Classifica triângulo](./20%20-%20Classifica%20triângulo/readme.md)
-  - 21 - [Avalia aluno](./21%20-%20Avalia%20aluno/readme.md)
+  - 17 - [Maior de três](./03%20-%20Fluxo%20condicional/17%20-%20Maior%20de%20três/readme.md)
+  - 18 - [Remuneração mensal](./03%20-%20Fluxo%20condicional/18%20-%20Remuneração%20mensal/readme.md)
+  - 19 - [Pertence ao conjunto](./03%20-%20Fluxo%20condicional/19%20-%20Pertence%20ao%20conjunto/readme.md)
+  - 20 - [Classifica triângulo](./03%20-%20Fluxo%20condicional/20%20-%20Classifica%20triângulo/readme.md)
+  - 21 - [Avalia aluno](./03%20-%20Fluxo%20condicional/21%20-%20Avalia%20aluno/readme.md)
 
 ## 4. Fluxo iterativo
 
 - Repetição com teste lógico no início
   - Exercícios em sala
-    - 22 - [Número de referência](./22%20-%20Número%20de%20referência/readme.md)
-    - 23 - [Fibonacci](./23%20-%20Fibonacci/readme.md)
+    - 22 - [Número de referência](./04%20-%20Fluxo%20iterativo/22%20-%20Número%20de%20referência/readme.md)
+    - 23 - [Fibonacci](./04%20-%20Fluxo%20iterativo/23%20-%20Fibonacci/readme.md)
 - Repetição comteste lógico no fim
   - Exercícios em sala
-    - 24 - [Quantidade e soma de dígitos](./24%20-%20Quantidade%20e%20soma%20dos%20dígitos/readme.md)
+    - 24 - [Quantidade e soma de dígitos](./04%20-%20Fluxo%20iterativo/24%20-%20Quantidade%20e%20soma%20dos%20dígitos/readme.md)
   - Exercícios para casa
-    - 25 - [Maior número](./25%20-%20Maior%20número/readme.md)
-    - 26 - [Converter para fluxograma](./26%20-%20Converter%20para%20fluxograma/readme.md)
-    - 27 - [Pares menores ou iguais](./27%20-%20Pares%20menores%20ou%20iguais/readme.md)
-    - 28 - [Média dos números lidos](./28%20-%20Média%20dos%20números%20lidos/readme.md)
-    - 29 - [Especial divisível por 2 ou 3 - parte 2](./29%20-%20Especial%20divisível%20por%202%20ou%203%20-%20parte%202/readme.md)
+    - 25 - [Maior número](./04%20-%20Fluxo%20iterativo/25%20-%20Maior%20número/readme.md)
+    - 26 - [Converter para fluxograma](./04%20-%20Fluxo%20iterativo/26%20-%20Converter%20para%20fluxograma/readme.md)
+    - 27 - [Pares menores ou iguais](./04%20-%20Fluxo%20iterativo/27%20-%20Pares%20menores%20ou%20iguais/readme.md)
+    - 28 - [Média dos números lidos](./04%20-%20Fluxo%20iterativo/28%20-%20Média%20dos%20números%20lidos/readme.md)
+    - 29 - [Especial divisível por 2 ou 3 - parte 2](./04%20-%20Fluxo%20iterativo/29%20-%20Especial%20divisível%20por%202%20ou%203%20-%20parte%202/readme.md)
     - 30 - [Maior e a quantidade de vezes que ocorre](./04%20-%20Fluxo%20iterativo/30%20-%20Maior%20e%20a%20quantidade%20de%20vezes%20que%20ocorre/readme.md)
 
 ## 5. Simulado e Prova 1
