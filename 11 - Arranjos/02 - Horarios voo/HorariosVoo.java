@@ -6,7 +6,7 @@ public class HorariosVoo {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entre com o horário atual (HH:MM): ");
         String entrada = scanner.nextLine();        
-
+        scanner.close();
         String partida[] = {"08:00", "09:43", "11:19", "12:47", "14:00", "15:45", "19:00", "21:45"};
         String chegada[] = {"10:16", "11:52", "13:31", "15:00", "16:08", "17:55", "21:20", "23:58"};
 
