@@ -127,3 +127,12 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 - 1 - [Rendimentos](./11%20-%20Arranjos/01%20-%20Rendimentos/readme.md)
 - 2 - [Horas de Voo](./11%20-%20Arranjos/02%20-%20Horarios%20voo/readme.md)
 - 3 - [Histograma](./11%20-%20Arranjos/03%20-%20Histograma/readme.md)
+
+## 12 - Exercícios extras de Arranjo
+
+- 1 - [Sequência de Fibonacci generalizada](./12%20-%20Extra%20-%20Parte%203/01%20-%20Fibonacci/readme.md)
+- 2 - [Ocorrência de dígitos](./12%20-%20Extra%20-%20Parte%203/02%20-%20Ocorrência%20de%20dígitos/readme.md)
+- 3 - [Contagem de números pares](./12%20-%20Extra%20-%20Parte%203/03%20-%20Contagem%20Números%20Pares/readme.md)
+- 4 - [Filtra primos](./12%20-%20Extra%20-%20Parte%203/04%20-%20Filtra%20Primos/readme.md)
+- 5 - [Índice da coluna de menor soma](./12%20-%20Extra%20-%20Parte%203/05%20-%20Índice%20Coluna%20Menor%20Soma/readme.md)
+- 6 - [Conversão de base](./12%20-%20Extra%20-%20Parte%203/06%20-%20Conversão%20base/readme.md)
