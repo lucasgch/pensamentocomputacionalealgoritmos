@@ -17,13 +17,13 @@ Escreva um programa que lê do teclado dois arranjos de inteiros de mesmo tamanh
 
 ### compara_arranjos
 
-#### Parâmetros de entrada
+#### Parâmetros de entrada para compara_arranjos
 
 int x[] - Um arranjo de inteiros.
 int y[] - Um arranjo de inteiros.
 int tam - Tamanho dos arranjos.
 
-#### Retorno
+#### Retorno para compara_arranjos
 
 int - Igual a 0 se as quantidades de números pares dos arranjos forem iguais; -1 se a quantidade de números pares do primeiro arranjo for maior que a do segundo, e 1 se a quantidade de números pares do primeiro arranjo for menor que a do segundo.
 

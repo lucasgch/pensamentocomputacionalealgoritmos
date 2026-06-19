@@ -20,8 +20,8 @@ Por exemplo, os coeficientes 16-ários de 123 são $[11, 7]$; os dígitos corres
 
 ## Tarefa
 
-Escreva um programa que lê do teclado um inteiro positivo n e uma base 
-b (de 2 a 16) e escreve na tela a representação b-ária de n. 
+Escreva um programa que lê do teclado um inteiro positivo n e uma base
+b (de 2 a 16) e escreve na tela a representação b-ária de n.
 
 Para resolver esse problema, você deverá implementar as seguintes funções:
 
