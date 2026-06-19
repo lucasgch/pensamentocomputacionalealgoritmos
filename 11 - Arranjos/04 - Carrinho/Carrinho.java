@@ -16,6 +16,7 @@ public class Carrinho {
             System.out.print("Preço unitário do item " + (i+1) + ": ");
             precos[i] = sc.nextDouble();
         }
+        sc.close();
 
         double[] subtotais = calculaSubtotais(quantidades, precos);
         double somaTotal = obtemSomaTotal(subtotais, 0.1);
