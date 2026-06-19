@@ -26,7 +26,7 @@ public class Histograma {
             frequencias[soma]++;
         }
 
-        // 2. Imprime os resultados calculando o percentual
+        // 2. Imprime os resultados calculando o percentual, partindo de 2, pois 0 e 1 não são possíveis considerando os dois dados
         for (int j = 2; j <= 12; j++) {
 
             // Conversão para double necessária para a divisão não virar zero
