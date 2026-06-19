@@ -18,8 +18,8 @@ public class Histograma {
         for (int i = 0; i < rolagens; i++) {
 
             // Simula dados 1 e 2
-            int dado1 = random.nextInt(6) + 1;
-            int dado2 = random.nextInt(6) + 1;
+            int dado1 = random.nextInt(1, 7);
+            int dado2 = random.nextInt(1, 7);
             int soma = dado1 + dado2;
 
             // Incrementa a frequencia respectiva do resultado
