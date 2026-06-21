@@ -1,14 +1,24 @@
 # Rotaciona.java
 
-Elabore um programa que lê do teclado números reais separados por espaço, seguidos de um inteiro . O programa deve escrever na tela os números rotacionados posições à direita, se for positivo, ou à esquerda, se for negativo. Para resolver esse problema, você deverá implementar o método void rotaciona(double[] arranjo, int r) que recebe um arranjo e a quantidade de rotações, e efetua a rotação no próprio arranjo.
+Elabore um programa que lê do teclado números reais separados por espaço, seguidos de um inteiro .
 
-## Restrição:
+O programa deve escrever na tela os números rotacionados posições à direita, se for positivo, ou à esquerda, se for negativo.
 
-Apenas o método main() deve interagir com o usuário (ou seja, ler e escrever na tela). 
+Para resolver esse problema, você deverá implementar o método:
 
-## Dicas:
+`void rotaciona(double[] arranjo, int r)` que recebe um arranjo e a quantidade de rotações, e efetua a rotação no próprio arranjo.
 
-Para , por exemplo, uma rotação de é equivalente a uma rotação de , e uma rotação de é equivalente a uma rotação de . Utilize o operador resto da divisão para simplificar a rotação. Dentro do método rotaciona , você pode criar uma cópia do arranjo original para facilitar a rotação.
+## Restrição
+
+Apenas o método main() deve interagir com o usuário (ou seja, ler e escrever na tela).
+
+## Dicas
+
+- Para `n=5`, por exemplo, uma rotação de `r=2` é equivalente a uma rotação de `r=7` e também a uma rotação de r=`-3`.
+
+- Utilize o operador resto da divisão para simplificar a rotação.
+
+- Dentro do método rotaciona, você pode criar uma cópia do arranjo original para facilitar a rotação.
 
 ## Exemplos
 
