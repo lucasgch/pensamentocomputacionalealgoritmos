@@ -2,8 +2,6 @@
 
 Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 
-
-
 ## 1. Introdução a algoritmos
 
 - Introdução. Fluxo sequencial. Expressões lógicas. Fluxo condicional. Fluxo iterativo.
@@ -129,6 +127,9 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 - 1 - [Rendimentos](./11%20-%20Arranjos/01%20-%20Rendimentos/readme.md)
 - 2 - [Horas de Voo](./11%20-%20Arranjos/02%20-%20Horarios%20voo/readme.md)
 - 3 - [Histograma](./11%20-%20Arranjos/03%20-%20Histograma/readme.md)
+- 4 - [Carrinho](./11%20-%20Arranjos/04%20-%20Carrinho/readme.md)
+- 5 - [Rotaciona](./11%20-%20Arranjos/05%20-%20Rotaciona/readme.md)
+- 6 - [Rotaciona desafio](./11%20-%20Arranjos/06%20-%20Rotaciona%20desafio/readme.md)
 
 ## 12 - Exercícios extras de Arranjo
 
@@ -138,3 +139,12 @@ Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 - 4 - [Filtra primos](./12%20-%20Extra%20-%20Parte%203/04%20-%20Filtra%20Primos/readme.md)
 - 5 - [Índice da coluna de menor soma](./12%20-%20Extra%20-%20Parte%203/05%20-%20Índice%20Coluna%20Menor%20Soma/readme.md)
 - 6 - [Conversão de base](./12%20-%20Extra%20-%20Parte%203/06%20-%20Conversão%20base/readme.md)
+
+## 13 - Matriz
+
+- 1 - [Media matriz](./13%20-%20Matriz/01%20-%20Media%20Matriz/readme.md)
+- 2 - [Baralho](./13%20-%20Matriz/02%20-%20Baralho/readme.md)
+
+## 14 - Exercícios extras de matriz
+
+- 1 - [](./14%20-%20Extras%20-%20Matriz/01%20-%20Índice%20coluna%20menor%20soma/readme.md)
