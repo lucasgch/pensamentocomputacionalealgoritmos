@@ -1,11 +1,10 @@
 # Exercício em sala: SomaDigitos.java
 
-Elabore um programa que LÊ DO TECLADO um inteiro não-negativo ʼn e ESCREVE NA TELA a soma dos dígitos de n . Por exemplo, se o usuário digitar 2024, o programa deve escrever na tela 8 (pois 2+0+ 2 + 4 = 8). Para resolver esse problema, você deverá IMPLEMENTAR O SEGUINTE MÉTODO:
+Elabore um programa que LÊ DO TECLADO um inteiro não-negativo `n` e ESCREVE NA TELA a soma dos dígitos de `n` . Por exemplo, se o usuário digitar 2024, o programa deve escrever na tela 8 (pois 2+0+ 2 + 4 = 8). Para resolver esse problema, você deverá IMPLEMENTAR O SEGUINTE MÉTODO:
 
-`int somaDigitos(int n)`
-Retorna a soma dos dígitos de n.
+`int somaDigitos(int n)` - Retorna a soma dos dígitos de n.
 
-## Dica:
+## Dica
 
 Utilize o comando while e, dentro do loop, calcule iterativamente a divisão e o resto da divisão por 10:
 

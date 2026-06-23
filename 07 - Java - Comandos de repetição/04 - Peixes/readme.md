@@ -4,11 +4,11 @@ Cada espécie de peixe possui uma faixa de pH adequada para viver. Por exemplo, 
 
 Elabore um programa que LÊ DO TECLADO a faixa de pH adequada para uma espécie de peixe, um inteiro positivo n indicando o número de medições de pH e, em seguida, n valores de pH. O programa deve ESCREVER NA TELA quantas medições estão com o pH fora da faixa adequada.
 
-## Restrição:
+## Restrição
 
 - Utilize o comando for .
 
-## Exemplo de execução:
+## Exemplo de execução
 
 ```text
 Entre com o pH mínimo: 7.8

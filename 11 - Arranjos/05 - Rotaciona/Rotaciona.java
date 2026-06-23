@@ -46,11 +46,15 @@ public class Rotaciona {
             arranjoRotacionado[indiceRotacionado] = arranjo[i];
         }
 
-        for (double numero : arranjoRotacionado) {
+        imprime(arranjoRotacionado);
+
+    }
+
+    static void imprime(double[] arranjo){
+        for (double numero : arranjo) {
             System.out.print(numero + " ");
         }
         System.out.println();
-
     }
 
 }

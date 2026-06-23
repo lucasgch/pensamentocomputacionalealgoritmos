@@ -7,7 +7,7 @@ public class Segredo {
         Scanner scanner = new Scanner(System.in);
         int segredo = new Random().nextInt(1, 101);
         System.out.println("Bem-vindo ao jogo do segredo!");
-        int palpite = 0;
+        int palpite;
         int tentativas = 0;
         do{
             tentativas++;

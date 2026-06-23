@@ -2,11 +2,11 @@
 
 Considere um sistema de monitoramento de um reservatório de água que tem uma capacidade de 400 litros.
 
-Elabore um programa que **LÊ DO TECLADO** a quantidade de chuva em litros que caiu em cada um dos sete dias da semana e **ESCREVE NA TELA** o dia em que o reservatório transbordou ou uma mensagem informando que o reservatório não transbordou após uma semana e a quantidade de espaço livre no reservatório. 
+Elabore um programa que **LÊ DO TECLADO** a quantidade de chuva em litros que caiu em cada um dos sete dias da semana e **ESCREVE NA TELA** o dia em que o reservatório transbordou ou uma mensagem informando que o reservatório não transbordou após uma semana e a quantidade de espaço livre no reservatório.
 
 A leitura dos dados deve ser interrompida assim que o reservatório transbordar.
 
-## Restrições:
+## Restrições
 
 - Utilize o comando for para ler a quantidade de chuva em cada dia.
 - Utilize o comando break para interromper o laço quando o reservatório transbordar.

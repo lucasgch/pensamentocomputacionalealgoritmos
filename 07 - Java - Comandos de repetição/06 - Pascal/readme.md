@@ -32,7 +32,7 @@ $$x^{\underline{m}} = \underbrace{x \cdot (x - 1) \cdot \dots \cdot (x - m + 1)}
 >
 >
 
-#### Exemplo Prático
+### Exemplo Prático
 
 Como exemplo, o coeficiente binomial de $6$ na classe $4$ é dado por:
 

@@ -7,13 +7,12 @@ Implemente um algoritmo que simula um jogo de adivinhação de um número secret
 - Caso contrário, o jogo deve informar se o segredo é maior ou menor que o palpite e solicitar um novo palpite.
 - O jogo deve continuar solicitando novos palpites até que o usuário acerte o número secreto.
 
-## Restrição e dica:
+## Restrição e dica
 
 - Utilize o comando do-while.
 - Crie um objeto da classe Random (por exemplo: Random rnd = new Random() ) e utilize o método nextInt desta classe para gerar um inteiro aleatório. Consulte a documentacão da classe caso necessário.
 
 ## Exemplo
-
 
 ```text
 Entre com seu palpite (1 a 100): 50
