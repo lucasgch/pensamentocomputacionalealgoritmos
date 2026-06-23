@@ -24,12 +24,6 @@ public class RotacionaDesafio {
 
         rotaciona(arranjo, rotacao);
 
-       // inverte(arranjo, 0, 3);
-
-        // for (double numero : arranjo) {
-        //     System.out.print(numero + " ");
-        // }
-        // System.out.println();
     }
 
     static void rotaciona(double[] arranjo, int r) {
@@ -48,15 +42,10 @@ public class RotacionaDesafio {
        imprime(arranjo);
 
        // Inverte os n-r últimos elementos
-       int indiceInicial = indiceFinal-r;
+       int indiceInicial = tamanhoDoArranjo - (tamanhoDoArranjo-r);
+       System.out.println("Inverte os n("+tamanhoDoArranjo+")-r("+r+")=("+indiceInicial+") últimos elementos");
        inverte(arranjo, indiceInicial, indiceFinal);
-       System.out.println("Inverte os n:"+indiceFinal+"-r:"+indiceInicial+" = "+(indiceFinal-indiceInicial)+"últimos elementos");
        imprime(arranjo);
-
-        for (double numero : arranjo) {
-            System.out.print(numero + " ");
-        }
-        System.out.println();
 
     }
 
