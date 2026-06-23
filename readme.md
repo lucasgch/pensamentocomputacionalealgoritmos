@@ -2,6 +2,13 @@
 
 Prof. [Roberto W. Nóbrega](https://github.com/rwnobrega/)
 
+## Como usar esse repositório
+
+- Navegue pelo [Índice](#1-introdução-a-algoritmos) para acessar o enunciado dos exercícios.
+- Navegue pelas pastas para visualizar uma possível solução para os execícios.
+
+Caso encontrar algum erro nos testes, tiver alguma dúvida ou sugestão, entre em contato.
+
 ## 1. Introdução a algoritmos
 
 - Introdução. Fluxo sequencial. Expressões lógicas. Fluxo condicional. Fluxo iterativo.
