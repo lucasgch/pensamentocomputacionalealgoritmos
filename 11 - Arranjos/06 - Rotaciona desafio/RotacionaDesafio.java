@@ -33,17 +33,17 @@ public class RotacionaDesafio {
 
        // Inverte o arranjo inteiro OK
        inverte(arranjo, 0, indiceFinal);
-       System.out.println("Inverte o arranho inteiro");
-       imprime(arranjo);
+       //System.out.println("Inverte o arranho inteiro");
+       //imprime(arranjo);
 
        // Inverte os r primeiros elementos
        inverte(arranjo, 0, r-1);
-       System.out.println("Inverte os "+r+" primeiros elementos");
-       imprime(arranjo);
+       //System.out.println("Inverte os "+r+" primeiros elementos");
+       //imprime(arranjo);
 
        // Inverte os n-r últimos elementos
        int indiceInicial = tamanhoDoArranjo - (tamanhoDoArranjo-r);
-       System.out.println("Inverte os n("+tamanhoDoArranjo+")-r("+r+")=("+indiceInicial+") últimos elementos");
+       //System.out.println("Inverte os n("+tamanhoDoArranjo+")-r("+r+")=("+indiceInicial+") últimos elementos");
        inverte(arranjo, indiceInicial, indiceFinal);
        imprime(arranjo);
 
