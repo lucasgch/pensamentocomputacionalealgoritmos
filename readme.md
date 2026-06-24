@@ -154,4 +154,9 @@ Caso encontrar algum erro nos testes, tiver alguma dúvida ou sugestão, entre e
 
 ## 14 - Exercícios extras de matriz
 
-- 1 - [](./14%20-%20Extras%20-%20Matriz/01%20-%20Índice%20coluna%20menor%20soma/readme.md)
+- 1 - [Índice da coluna de menor soma](./14%20-%20Extras%20-%20Matriz/01%20-%20Índice%20coluna%20menor%20soma/readme.md)
+
+## 15 - Prova 3
+
+- 1 - [Raiz Digital](./15%20-%20Prova%203/01%20-%20Raiz%20Digital/readme.md)
+- 2 - [Média aparada](./15%20-%20Prova%203/02%20-%20Média%20aparada/readme.md)
