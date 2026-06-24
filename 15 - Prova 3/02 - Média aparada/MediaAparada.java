@@ -1,4 +1,4 @@
-import java.util.Arrays;
+//import java.util.Arrays;
 
 public class MediaAparada {
 
@@ -58,7 +58,7 @@ public class MediaAparada {
 
     static double calculaMediaAparada(double[] arranjo, int m){
         double mediaAparada = 0;
-        int indiceMaisDistante = 0;
+        int indiceMaisDistante;
         if (m==0){
             mediaAparada = calculaMedia(arranjo);
             return mediaAparada;    
