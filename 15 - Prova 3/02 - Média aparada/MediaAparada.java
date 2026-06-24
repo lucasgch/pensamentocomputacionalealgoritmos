@@ -26,15 +26,15 @@ public class MediaAparada {
     static int encontraIndiceMaisDistante(double[] arranjo){
         double mediaAritimetica = calculaMedia(arranjo);
         int tamanhoDoArranjo = arranjo.length;
-        double maisDistante = 0;
+        double maisDistante = -1; // começa em -1 para garantir que o primeiro elemento seja considerado
         int indiceMaisDistante = 0;
 
-        for (int i=0; i<tamanhoDoArranjo; i++){
-            double atual = arranjo[i]-mediaAritimetica;
-            
-            if ( atual>maisDistante ){
-                maisDistante=atual;
-                indiceMaisDistante=i;
+        for (int i = 0; i < tamanhoDoArranjo; i++){
+            double distancia = Math.abs(arranjo[i] - mediaAritimetica); // <- valor absoluto
+
+            if (distancia > maisDistante){
+                maisDistante = distancia;
+                indiceMaisDistante = i;
             }
         }
 
